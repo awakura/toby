@@ -1,9 +1,16 @@
 # Mudskipper jumps お役立ちリンク
 
 
->>[top](https://awakura.github.io/toby/index.html)  
->>[お手軽に飼う](https://awakura.github.io/toby/easy.html)
->>Links
+[top](https://awakura.github.io/toby/index.html)
+☞
+[お手軽に飼う](https://awakura.github.io/toby/easy.html)
+☞
+Links
+
+
+backquoteって、backticksって言ったりするんだ。Quoteに使うのそのせいか。
+バクチクみたいやな。
+https://webapps.stackexchange.com/questions/136172/does-github-have-an-escape-character-for-their-markup
 
 1. 辞書
    1.

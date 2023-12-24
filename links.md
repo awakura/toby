@@ -1,9 +1,13 @@
 # Mudskipper jumps お役立ちリンク
 
+>
+[top](https://awakura.github.io/toby/index.html)
+>
+[お手軽に飼う](https://awakura.github.io/toby/easy.html)
+>Links
+
 1. 辞書
    1.
-
-
 
 
 1. 関連団体
@@ -16,6 +20,10 @@
 ## 総論　トビハゼとは？系
 
 [Wikipedia トビハゼ](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%83%8F%E3%82%BC)
+
+わかりやすい読みもの
+pdf
+[東京湾のトビハゼの今](https://www.tokyo-zoo.net/conservation/img/tobihaze_no_ima.pdf)
 
 ハゼは、多彩で、トビハゼだけじゃなく、ミミズハゼやトカゲハゼってのもいます。すげえ。
 

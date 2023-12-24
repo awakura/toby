@@ -1,10 +1,9 @@
 # Mudskipper jumps お役立ちリンク
 
->
-[top](https://awakura.github.io/toby/index.html)
->
-[お手軽に飼う](https://awakura.github.io/toby/easy.html)
->Links
+
+>>[top](https://awakura.github.io/toby/index.html)  
+>>[お手軽に飼う](https://awakura.github.io/toby/easy.html)
+>>Links
 
 1. 辞書
    1.

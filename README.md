@@ -18,6 +18,8 @@ and how to keep blackish-water-region aquarium easily for dummies.
 ## Website
   - [Toby The Mudskipper](https://awakura.github.io/toby/)
 
+  - [Toby The Mudskipper Links](https://awakura.github.io/toby/links.html)
+
 ## SNS
   - [Twitter](https://twitter.com/homemaku)
   - [Instagram](https://www.instagram.com/thenamecannotremember/)

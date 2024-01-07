@@ -31,6 +31,14 @@ https://webapps.stackexchange.com/questions/136172/does-github-have-an-escape-ch
 pdf
 [東京湾のトビハゼの今](https://www.tokyo-zoo.net/conservation/img/tobihaze_no_ima.pdf)
 
+わかりやすい解説
+[Marli's mudskipper land](http://mudskipper.partials.net/)
+
+
+
+失われる技術。　チケット
+
+
 ハゼは、多彩で、トビハゼだけじゃなく、ミミズハゼやトカゲハゼってのもいます。すげえ。
 
 スズキ目　ハゼ亜目　ハゼ化　オクスデルクス亜科

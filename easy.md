@@ -56,7 +56,6 @@ I aspire to perpetually preserve the invaluable tidal flats.　
 
 ### 東京湾の栄養状況
 
-
 美しい水の方が長生きする説もありますが、海洋循環のモデルの１つPOMでは、懸濁態有機物質の重要性が説かれています。
 病気やえらへの微生物付着による窒息の話もありますが、
 トビハゼは皮膚呼吸ができるということや、
@@ -70,4 +69,16 @@ I aspire to perpetually preserve the invaluable tidal flats.　
 https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/264245/1/CoHHO_jp_03.pdf
 P.4
 
+
 ### 推定する
+
+
+### 論文
+
+(江戸川放水路トビハゼ生息干潟の特性)[https://www.jstage.jst.go.jp/article/prooe1986/16/0/16_0_357/_pdf/-char/ja]
+
+明治４３年の大洪水を契機に江戸川放水路を
+
+
+
+

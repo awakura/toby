@@ -13,7 +13,7 @@
 
 for f in ./*.md; do
 
-    pandoc -s -o tmp.html $f
+    pandoc -s -o tmp.html $f --metadata title="Toby the mudskipper 2355toby 楽して泥干潟水槽を作る"
     sed 's/.md/.md.html/g' tmp.html > $f.html
   # ファイル一つ毎の処理
   echo "file: $f"

@@ -1,0 +1,4 @@
+pandoc -f markdown -t html *.md
+pandoc -s -o index.html README.md
+
+file --mime <filename>

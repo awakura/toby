@@ -8,8 +8,12 @@
 |トビハゼ|彈塗魚|弹涂鱼||||||||
 
 
-|
-|言語|トビハゼ|ミナミトビハゼ|
+P. Kaloloは、　P. argentilineatusの
+
+ミナミトビハゼ
+Common Mudskipper
+
+|言語|トビハゼ|
 |生息域|東アジア熱帯|
 |----|----|
 |科名|ハゼ科|
@@ -20,14 +24,22 @@
 |英語名|mudskipper|
 |繁体字|彈塗魚|
 |簡体字|弹涂鱼|
-|||
-|Tieng Viet||
-|||
+
+
+Periophthalmus gracilis
+
+この種が好き0 この種が嫌い0
+
+Periophthalmus gracilis
+
+|Thai|ตีน กระจัง พรวด|
+|Tieng Viet|Cá thòi lòi vạch ngang trắng|
+|Bahasa Malaysia||
 |||
 
 
-ヨダレカケ
-Andamia tetradactylus
+[ヨダレカケ Andamia tetradactylus](https://en.wikipedia.org/wiki/Andamia_tetradactylus)
+
 広島大学　清水 則雄先生が詳しい。
 
 

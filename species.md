@@ -1,45 +1,34 @@
-
-% title トビハゼの種別と他言語での表現
-
-#トビハゼの種別と他言語での表現
-
-総称としてのトビハゼ
-|日本語名称|繁体字|簡体字||||||||
-|トビハゼ|彈塗魚|弹涂鱼||||||||
-
-
-P. Kaloloは、　P. argentilineatusの
-
-
-|  a|		  b|
-|----|----|
-|a1	|	b1|
+# トビハゼ
 
 
 
-|和名	|トビハゼ	|（和名無し）	|ミナミトビハゼ	|
-|----|----|----|----|
-|生息域	| 東アジア熱帯	|		|		|
-|科名	|ハゼ科		|ハゼ科		|ハゼ科		|
-|亜科	|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|
-|属	|Periophthalmus	|Periophthalmus	|Periophthalmus	|
-|学名	|P. modestus	|P. gracilis	|P.argentilineatus|
-|和名	|トビハゼ	|   		|		|
-|英語名	|Shuttles mudskipper	|		|Barred	mudskipper / Sliverlined udskipper|
-|繁体字	|廣東彈塗魚	|		|銀身彈塗魚	|
-|簡体字	|广东弹涂鱼	|		|银身弹涂鱼	|
-|韓国語	|말뚝망둥어	|		|		|
-|	|		|		|		|
-|	|		|		|		|
-|	|		|		|		|
-|アラビア語|گل‌خورک ماکو	|		|	گل‌خورک نواری	|
-|ロシア語|なし		|		|		|
-|スペイン語|なし		|		|		|
-|	|		|		|		|
-|	|		|		|		|
-|Thai	|		|ตีน กระจัง พรวด	|		|
-|Tieng Viet|-		|Cá thòi lòi vạch ngang trắng|	|
-|Bahasa Malaysia|	|   	     	|	    	|
+
+Boleophthalmus
+|和名	|トビハゼ	|（和名無し）	|ミナミトビハゼ	|（和名無し）	|ムツゴロウ	|
+|----|----|----|----|----|
+|生息域	| 東アジア熱帯	|		|		|西アフリカ、西インド|		|
+|科名	|ハゼ科		|ハゼ科		|ハゼ科		|ハゼ科		|ハゼ科		|
+|亜科	|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|
+|属	|Periophthalmus	|Periophthalmus	|Periophthalmus	|Periophthalmus	|Boleophthalmus	|
+|学名	|P. modestus	|P. gracilis	|P.argentilineatus|P.barubarus	|B.pectinirostris|
+|和名	|トビハゼ	|   		|ミナミトビハゼ	|		|ムツゴロウ	|
+|英語名	|Shuttles mudskipper|		|Barred / Silverlined mudskipper|Atlantik mudskipper|great blue spotted mudskipper|
+|繁体字	|廣東彈塗魚	|		|銀身彈塗魚	|	|大彈塗魚		|
+|簡体字	|广东弹涂鱼	|		|银身弹涂鱼	|	|大弹涂鱼		|
+|韓国語	|말뚝망둥어	|		|		|	|짱뚱어		|
+|	|		|		|		|	|		|
+|	|		|		|		|	|		|
+|	|		|		|		|	|		|
+|アラビア語|گل‌خورک ماکو	|		|گل‌خورک نواری	|	|		|
+|ロシア語|なし		|		|		|	|		|
+|スペイン語|なし		|		|		|	|		|
+|	|		|		|		|	|		|
+|Thai	|		|ตีน กระจัง พรวด	|		|	|		|
+|Tieng Viet|-		|Cá thòi lòi vạch ngang trắng|	|	|Cá nác hoa	|
+|Bahasa Malaysia|	|   	     	|	    	|	|		|
+|Bahasa Indonesia|	|   	     	|	    	|	|Tembakul totol biru|
+|Svenska|Kantonesisk slamkrypare|	|		|	|		|
+
 
 
 
@@ -59,11 +48,16 @@ P. Kaloloは、　P. argentilineatusの
 |Bahasa Malaysia|Ikan Belacak|		|
 |Bahasa Indonesia|Tembakul|		|
 |Hindi  |पंकलंघी	|	|
+|Svenska|Slamkrypare|	|
 
 
 
+P. Kaloloは、　P. argentilineatusのレクトタイプの模様。
+[論文](https://www.researchgate.net/figure/Results-of-the-ML-analyses-of-the-different-P-argentilineatus-and-P-kalolo-clades-using_fig2_260042765)
 
 
+https://www.asahi.com/articles/ASN562STYN55ULBJ00S.html
+石松惇名誉教授らは、メコン川を河口から約200キロ上流のカンボジア国境付近まで調査。水の外でも暮らせるトビハゼの仲間が、河口を離れるといなくなるのに、ある一種（Periophthalmodon　septemradiatus）だけは150キロほど上流まで分布していた。
 
 [ヨダレカケ Andamia tetradactylus](https://en.wikipedia.org/wiki/Andamia_tetradactylus)
 

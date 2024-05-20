@@ -1,45 +1,34 @@
-# トビハゼ
-
-種を調べるための良質リンク集
-
-[Naturalist UK](https://uk.inaturalist.org/taxa/423841-Periophthalmus-magnuspinnatus)
-
-[Earth of Life](https://eol.org/pages/46576705)
-
-[Fishes of Australia](https://fishesofaustralia.net.au/home/species/2257)
-
-[]()
-[]()
+# トビハゼ研究者たち
 
 
+[日本の研究.com ムツゴロウ類]()
+
+田北徹教授　Prof. TAKITA Toru
 
 
-Boleophthalmus
+長崎大学名誉教授。１９６３年九州大学大学院農学研究科修士課程修了、農学博士。２００２年まで長崎大学水産学部教授
+長崎大学中心に研究されていた。
+没
 
-|和名	|トビハゼ	|（和名無し）	|ミナミトビハゼ	|（和名無し）	|ムツゴロウ	|
-|----|----|----|----|----|----|
-|生息域	| 東アジア熱帯	|オーストラリア	|		|西アフリカ、西インド|		|
-|科名	|ハゼ科		|ハゼ科		|ハゼ科		|ハゼ科		|ハゼ科		|
-|亜科	|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|
-|属	|Periophthalmus	|Periophthalmus	|Periophthalmus	|Periophthalmus	|Boleophthalmus	|
-|学名	|P. modestus	|P. gracilis	|P.argentilineatus|P.barubarus	|B.pectinirostris|
-|和名	|トビハゼ	|   		|ミナミトビハゼ	|		|ムツゴロウ	|
-|英語名	|Shuttles mudskipper|Slender mudskipper	|Barred / Silverlined mudskipper|Atlantic mudskipper|great blue spotted mudskipper|
-|繁体字	|廣東彈塗魚	|		|銀身彈塗魚	|	|大彈塗魚		|
-|簡体字	|广东弹涂鱼	|		|银身弹涂鱼	|	|大弹涂鱼		|
-|韓国語	|말뚝망둥어	|		|		|	|짱뚱어		|
-|	|		|		|		|	|		|
-|	|		|		|		|	|		|
-|	|		|		|		|	|		|
-|アラビア語|گل‌خورک ماکو	|		|گل‌خورک نواری	|	|		|
-|ロシア語|なし		|		|		|	|		|
-|スペイン語|なし		|		|		|	|		|
-|	|		|		|		|	|		|
-|Thai	|		|ตีน กระจัง พรวด	|		|	|		|
-|Tieng Viet|-		|Cá thòi lòi vạch ngang trắng|	|	|Cá nác hoa	|
-|Bahasa Malaysia|	|   	     	|	    	|	|		|
-|Bahasa Indonesia|	|   	     	|	    	|	|Tembakul totol biru|
-|Svenska|Kantonesisk slamkrypare|	|		|	|		|
+[日本の研究.com](https://research-er.jp/researchers/view/110175)
+[KAKEN DB](https://nrid.nii.ac.jp/ja/nrid/1000030039721/)
+
+有明海の生物多様性に科学者として強い懸念を示されていた。
+
+(有明漁民ネット)[https://ariake-gyomin.net/top/file/101224takita.pdf]
+
+石松教授との共著「水から出た魚たち」は、トビハゼ・ムツゴロウ初学者のバイブル。
+言葉は平易でわかりやすいのに、トビハゼ類の学問的な特異性の基礎を網羅されている。
+
+
+
+石松惇教授　Prof. ISHIMATSU Atshushi
+
+田北徹さんの後継者。
+[KAKEN DB](https://nrid.nii.ac.jp/ja/nrid/1000000184565/)
+
+石松教授との共著「水から出た魚たち」は、トビハゼ・ムツゴロウ初学者のバイブル。
+言葉は平易でわかりやすいのに、トビハゼ類の学問的な特異性の基礎を網羅されている。
 
 
 
@@ -65,6 +54,7 @@ P.Kaolo Rectotype ?
 https://uk.inaturalist.org/taxa/423841-Periophthalmus-magnuspinnatus
 P. magnuspinnatus Lee, Choi et Ryu,1995 - 朝鮮半島
 
+[P. takita / Takita's mudskipper](https://eol.org/pages/46576705)
 
 
 |総称	|トビハゼ|（トビハゼおよびミナミトビハゼの事を指す）|

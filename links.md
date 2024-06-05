@@ -2,10 +2,15 @@
 
 
 [top](https://awakura.github.io/toby/index.html)
-☞
+
 [お手軽に飼う](https://awakura.github.io/toby/easy.html)
-☞
+
 Links
+
+英語のリソース
+
+[Introductionary]
+(http://www.mudskipper.it/Intro.html)
 
 
 backquoteって、backticksって言ったりするんだ。Quoteに使うのそのせいか。

@@ -9,7 +9,10 @@
 
 #md に<head>入れていいか？
 
-pandoc -s -c github.css -o tmp.html species.md
-cp -ip tmp.html species.htmls
+pandoc -s -c github.css -o species.html species.md
+pandoc -s -c github.css -o log.html log.md
+
+
+
 
 

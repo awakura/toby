@@ -12,6 +12,8 @@
 pandoc -s -c github.css -o species.html species.md
 pandoc -s -c github.css -o log.html log.md
 pandoc -s -c github.css -o links.html links.md
+pandoc -s -c github.css -o easy.html easy.md
+pandoc -s -c github.css -o PModestusInTokyo.html PModestusInTokyo.md
 
 
 

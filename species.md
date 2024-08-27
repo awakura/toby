@@ -4,8 +4,8 @@
 
 
 
-|属名	|和名	|学名	|英語	|
-|----|----|----|----|
+|Genus name|Japanese name|Scientific name|English name	| Links |
+|----|----|----|----|----|
 |ムツゴロウ属|バードソンギ|Boleophtalmus birdsongi|North Australian great mudskipper/Birdsong's mudskipper|[wiki](https://en.wikipedia.org/wiki/Boleophthalmus_birdsongi)|
 ||ムツゴロウ  |Boleophtalmus pectinirostris|reat blue spotted mudskipper|[wiki](https://en.wikipedia.org/wiki/Boleophthalmus_pectinirostris)|
 |トビハゼ属|ミナミトビハゼ     |Periophtalmus argentilineatus|barred mudskipper/silverlined mudskipper|[wiki](https://en.wikipedia.org/wiki/Barred_mudskipper)|

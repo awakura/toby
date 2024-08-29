@@ -1,0 +1,6 @@
+ ---
+    title: Foo
+    header-includes:
+        <meta name="keywords" content="Foo,Bar" />
+        <meta name="description" content="My description" />
+ ---

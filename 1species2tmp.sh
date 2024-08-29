@@ -23,8 +23,7 @@ pandoc -s -c github.css -o PModestusInTokyo.html PModestusInTokyo.md --metadata 
 echo $?
 pandoc -s -c github.css -o sched.html sched.md --metadata title="Mudskipper related events in world"
 echo $?
-
-
-
+pandoc -s -c github.css -o test.html test.md
+echo $?
 
 

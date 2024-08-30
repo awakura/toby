@@ -17,12 +17,27 @@ header-includes:
 ```
 
 
+## 隠しファイルをUploadしようとするGitHUB Studio対策
+
+```
+touch .gitignore
+して、.DS_Store
+とかファイルに書くと幸せに。
+自分自身、 .gitignore
+も書いとかないとアップロードされそうになる。
+```
+
+
+## titleをpandocのコマンドラインで入れる
+
 ```titleをコマンドラインで突っ込む
 pandoc -s -c github.css -o species.html species.md --metadata title="Multi-lingual references for mudskippers"
 echo $?
 ```
 
-```metaタグやアイコン、titleをmd, Markdown上に記述するには、mdファイル上部に下記のようなYAML風記述を書いてpandocで変換すればOK
+## metaタグやアイコン、titleをmd, Markdown上に記述するには、mdファイル上部に下記のようなYAML風記述を書いてpandocで変換すればOK
+
+```Markdownで、アイコン設定して、pandocする。
 ---
 title: GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）
 header-includes:
@@ -33,4 +48,5 @@ header-includes:
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 ```
+
 

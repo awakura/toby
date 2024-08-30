@@ -28,8 +28,24 @@
 </header>
 <h1 id="githubとpandocについて学んだことトビハゼサイトを作っているうちに">GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）</h1>
 <p><code>md はutf-8 がデフォルト。困ったら、 #pandoc -s -o index.html README.md #file --mime &lt;filename&gt; #iconv -f -t    change charset</code></p>
+<h2 id="隠しファイルをuploadしようとするgithub-studio対策">隠しファイルをUploadしようとするGitHUB Studio対策</h2>
+<pre><code>touch .gitignore
+して、.DS_Store
+とかファイルに書くと幸せに。
+自分自身、 .gitignore
+も書いとかないとアップロードされそうになる。</code></pre>
+<h2 id="titleをpandocのコマンドラインで入れる">titleをpandocのコマンドラインで入れる</h2>
 <pre class="titleをコマンドラインで突っ込む"><code>pandoc -s -c github.css -o species.html species.md --metadata title=&quot;Multi-lingual references for mudskippers&quot;
 echo $?</code></pre>
-<p><code>metaタグやアイコン、titleをmd, Markdown上に記述するには、mdファイル上部に下記のようなYAML風記述を書いてpandocで変換すればOK --- title: GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに） header-includes:     &lt;meta name="keywords" content="トビハゼ,pandoc,2355toby,Toby the mudskipper,P Modestus" /&gt;     &lt;meta name="description" content="トビハゼサイトを作っているうちに、GitHUBとPandocについて学んだこと" /&gt;     &lt;link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /&gt;      &lt;link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" /&gt;       &lt;link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" /&gt; ---</code></p>
+<h2 id="metaタグやアイコンtitleをmd-markdown上に記述するにはmdファイル上部に下記のようなyaml風記述を書いてpandocで変換すればok">metaタグやアイコン、titleをmd, Markdown上に記述するには、mdファイル上部に下記のようなYAML風記述を書いてpandocで変換すればOK</h2>
+<pre class="markdownで、アイコン設定して、pandocする。"><code>---
+title: GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）
+header-includes:
+    &lt;meta name=&quot;keywords&quot; content=&quot;トビハゼ,pandoc,2355toby,Toby the mudskipper,P Modestus&quot; /&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;トビハゼサイトを作っているうちに、GitHUBとPandocについて学んだこと&quot; /&gt;
+    &lt;link rel=&quot;icon&quot; href=&quot;https://awakura.github.io/toby64.png&quot; sizes=&quot;64x64&quot; type=&quot;image/png&quot; /&gt; 
+    &lt;link rel=&quot;icon&quot; href=&quot;https://awakura.github.io/toby32.png&quot; sizes=&quot;32x32&quot; type=&quot;image/png&quot; /&gt;  
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;https://awakura.github.io/toby150.png&quot; /&gt;
+---</code></pre>
 </body>
 </html>

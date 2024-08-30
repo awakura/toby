@@ -9,21 +9,24 @@
 
 #md に<head>入れていいか？
 
-pandoc -s -c github.css -o species.html species.md --metadata title="Multi-lingual references for mudskippers"
+pandoc -s -c github.css -o species.html species.md
 echo $?
-pandoc -s -c github.css -o speciesMain.html speciesMain.md --metadata title="English-Japanese References for common mudskippers"
+pandoc -s -c github.css -o speciesMain.html speciesMain.md 
 echo $?
-pandoc -s -c github.css -o log.html log.md --metadata title="Mudskipper related logs"
+pandoc -s -c github.css -o log.html log.md 
 echo $?
-pandoc -s -c github.css -o links.html links.md --metadata title="Mudskipper Links"
+pandoc -s -c github.css -o links.html links.md
 echo $?
-pandoc -s -c github.css -o easy.html easy.md --metadata title="Easy aquarium for mudskippers"
+pandoc -s -c github.css -o easy.html easy.md 
 echo $?
-pandoc -s -c github.css -o PModestusInTokyo.html PModestusInTokyo.md --metadata title="Silverlined mudskipper in Tokyo, northern limit of stray mudskippers"
+pandoc -s -c github.css -o PModestusInTokyo.html PModestusInTokyo.md 
 echo $?
-pandoc -s -c github.css -o sched.html sched.md --metadata title="Mudskipper related events in world"
+pandoc -s -c github.css -o sched.html sched.md 
 echo $?
-pandoc -s -c github.css -o test.html test.md
+pandoc -s -c github.css -o log.html log.md
 echo $?
+pandoc -s -c github.css -o pandoc.html pandoc.md
+echo $?
+
 
 

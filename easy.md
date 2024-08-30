@@ -1,9 +1,16 @@
-
-% title ゆるくトビハゼを飼う（自宅で簡単泥干潟）
-
+---
+title: ゆるくトビハゼを飼う（自宅で簡単泥干潟）
+header-includes:
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,水槽,飼い方" />
+	<meta name="description" content="ゆるくトビハゼを飼う方法（自宅で簡単泥干潟）" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
 
 # 自宅で簡単泥干潟
-## Easy mudlfat aquarium
+
+Easy mudlfat aquarium
 
 東京で、トビハゼなどの汽水の生き物を、安く楽しく飼う方法を研究？しています。
 東京はトビハゼの生息北限です。美しい干潟をいつまでも一緒に守りましょう。

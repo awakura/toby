@@ -1,4 +1,12 @@
-# Mudskipper useful webresources
+---
+title: トビハゼ関係スケジュール・予定表
+header-includes:
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Schedule,スケジュール,予定表" />
+	<meta name="description" content="トビハゼ関係スケジュール・予定表です" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
 
 # 東京湾でのトビハゼ関係スケジュール
 

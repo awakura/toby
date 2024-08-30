@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="github.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <meta name="keywords" content="トビハゼ,pandoc,2355toby,Toby the mudskipper,P Modestus" />
+  <meta name="description" content="トビハゼサイトを作っているうちに、GitHUBとPandocについて学んだこと" />
+  <link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> <link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" /> <link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）</h1>
+</header>
+<h1 id="githubとpandocについて学んだことトビハゼサイトを作っているうちに">GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）</h1>
+<p><code>md はutf-8 がデフォルト。困ったら、 #pandoc -s -o index.html README.md #file --mime &lt;filename&gt; #iconv -f -t    change charset</code></p>
+<pre class="titleをコマンドラインで突っ込む"><code>pandoc -s -c github.css -o species.html species.md --metadata title=&quot;Multi-lingual references for mudskippers&quot;
+echo $?</code></pre>
+<p><code>metaタグやアイコン、titleをmd, Markdown上に記述するには、mdファイル上部に下記のようなYAML風記述を書いてpandocで変換すればOK --- title: GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに） header-includes:     &lt;meta name="keywords" content="トビハゼ,pandoc,2355toby,Toby the mudskipper,P Modestus" /&gt;     &lt;meta name="description" content="トビハゼサイトを作っているうちに、GitHUBとPandocについて学んだこと" /&gt;     &lt;link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /&gt;      &lt;link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" /&gt;       &lt;link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" /&gt; ---</code></p>
+</body>
+</html>

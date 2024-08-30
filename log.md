@@ -1,4 +1,14 @@
-# トビハゼなど飼育ログ
+---
+title: トビハゼ飼育ログ、お知らせ活動ログ
+header-includes:
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus," />
+	<meta name="description" content="トビハゼの飼育ログ、お知らせ活動の記録です" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
+
+トビハゼなど飼育ログ、お知らせ活動の記録
 
 ## ログ
 

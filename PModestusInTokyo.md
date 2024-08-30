@@ -1,10 +1,14 @@
-
-% title 東京におけるトビハゼの生態
+---
+title: 東京のトビハゼ動態
+header-includes:
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Northern limit,Tokyo,Behavior" />
+	<meta name="description" content="東京でのトビハゼの様子、生態を記録しています。" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
 
 # 東京におけるトビハゼの生態
-
-
-
 
 ## 水陸動ける特徴を活かした生存戦略
 

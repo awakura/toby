@@ -1,6 +1,14 @@
-# Mudskipper useful webresources
+---
+title: トビハゼリンク
+header-includes:
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Papers,Idetify species" />
+	<meta name="description" content="トビハゼの種同定方法リンク、論文のリンクなど" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
 
-## 僕の作ったサイト
+# Mudskipper useful webresources
 
 うちの可愛いトビハゼ見にきてください。毎日１５秒で豆知識をお届けします。
 

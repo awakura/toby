@@ -8,7 +8,21 @@ header-includes:
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 
-# GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）
+# GitHUBとPandocについてわかったこと
+
+## 特に大事な情報
+
+[pandocの日本語訳プロジェクト](https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html)
+
+pandocでできること増えたりするから、たまに見直した方がいい。
+フリーでpdfにもoutputできるらしい。みんな入れた方がいい。
+
+[GitHub auctions](https://docs.github.com/ja/actions)
+
+個人プロジェクトはGitHUB Auctionsを利用できる。
+metaタグを自動でくっつけようと思ったが、ずっとScript Errorが出てうまくいってない。
+できること増えたりするから、たまに見直した方がいい。
+
 
 ```md はutf-8 がデフォルト。困ったら、
 #pandoc -s -o index.html README.md

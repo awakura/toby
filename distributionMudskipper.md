@@ -13,19 +13,21 @@ header-includes:
 9000万年前から6000万年前
 
 大陸棚を移動
-https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%99%B8%E6%A3%9A#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Elevation.jpg
 
-![大陸棚の画像 wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%99%B8%E6%A3%9A#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Elevation.jpg)
+![大陸棚の画像 wikipedia](https://www.ngdc.noaa.gov/mgg/image/2minsurface/1350/00N000E.jpg)
+(https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%99%B8%E6%A3%9A#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Elevation.jpg)
+
+![海流の画像](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Corrientes-oceanicas-en.svg/1024px-Corrientes-oceanicas-en.svg.png)
 
 
-![大陸の移動に、トビハゼの現在の分布を載せてみたもの](tobihaze-distribu-and-continental-mouvt.png)
+![大陸の移動に、トビハゼの現在の分布を載せてみたもの](https://awakura.github.io/toby/img/tobihaze-distribu-and-continental-mouvt.png)
 
 約250万年前から始まった第四紀氷河時代に、大陸棚
 
 
-大陸移動の動画
 
-<video src="https://www.youtube.com/watch?v=jjO7qgVyajw" controls="true">大陸移動の動画</video>
+
+[大陸移動の動画](https://www.youtube.com/watch?v=jjO7qgVyajw)
 
 # English-Japanese references for common mudskippers
 

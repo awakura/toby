@@ -9,6 +9,21 @@ header-includes:
 ---
 
 
+# トビハゼ属周辺の分布時期
+
+https://commons.wikimedia.org/wiki/File:Mudhopper_map.png#/media/Datei:Mudhopper_map.png
+
+## 現在の分布
+
+![現在の分布状況](https://upload.wikimedia.org/wikipedia/commons/c/cc/Mudhopper_map.png)
+
+上記赤色のところに分布。マングローブ帯、泥干潟帯。
+緑色はマングローブ帯とのこと。
+
+![大陸の移動に、トビハゼの現在の分布を載せてみたもの](https://awakura.github.io/toby/img/tobihaze-distribu-and-continental-mouvt.png)
+
+
+
 本当にいなければ、
 9000万年前から6000万年前
 
@@ -20,7 +35,6 @@ header-includes:
 ![海流の画像](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Corrientes-oceanicas-en.svg/1024px-Corrientes-oceanicas-en.svg.png)
 
 
-![大陸の移動に、トビハゼの現在の分布を載せてみたもの](https://awakura.github.io/toby/img/tobihaze-distribu-and-continental-mouvt.png)
 
 約250万年前から始まった第四紀氷河時代に、大陸棚
 

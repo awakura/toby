@@ -1,5 +1,5 @@
 ---
-title: トビハゼ・主だったマッドスキッパーの日英対照表
+title: トビハゼ・主だったマッドスキッパーの日本語・英語対照表と、俗名・学名対照表
 header-includes:
 	<meta name="keywords" content="トビハゼ,ニュース,論文,2355toby,Toby the mudskipper,P Modestus" />
 	<meta name="description" content="トビハゼ各種の、日英対照表です" />
@@ -8,7 +8,18 @@ header-includes:
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 
-# English-Japanese references for common mudskippers
+ English-Japanese references for common mudskippers
+
+# 上位分類
+
+|和名|英名|
+|----|----|
+|ハゼ科|Gobiidae|
+|オグジュデルシネー亜科|Oxudercinae|
+|ムツゴロウ属|Boleophtalmus ボレオフタルムス|
+|トビハゼ属|Periophtalmus ペリオフタルムス|
+
+# 主だった種の対照表 
 
 |Genus name|Japanese name|Scientific name|English name	| Links |
 |----|----|----|----|----|

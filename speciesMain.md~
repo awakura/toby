@@ -1,6 +1,14 @@
-# English-Japanese references for common mudskippers
+---
+title: トビハゼ・主だったマッドスキッパーの日英対照表
+header-includes:
+	<meta name="keywords" content="トビハゼ,ニュース,論文,2355toby,Toby the mudskipper,P Modestus" />
+	<meta name="description" content="トビハゼ各種の、日英対照表です" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
 
-# 主だったMudskipperの日本語・英語対照表
+# English-Japanese references for common mudskippers
 
 |Genus name|Japanese name|Scientific name|English name	| Links |
 |----|----|----|----|----|

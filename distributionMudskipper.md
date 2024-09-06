@@ -9,7 +9,7 @@ header-includes:
 ---
 
 
-# トビハゼ属周辺の分布時期
+# トビハゼ属の分化と分布地域の相関性　および不明点
 
 https://commons.wikimedia.org/wiki/File:Mudhopper_map.png#/media/Datei:Mudhopper_map.png
 
@@ -17,8 +17,23 @@ https://commons.wikimedia.org/wiki/File:Mudhopper_map.png#/media/Datei:Mudhopper
 
 ![現在の分布状況](https://upload.wikimedia.org/wikipedia/commons/c/cc/Mudhopper_map.png)
 
-上記赤色のところに分布。マングローブ帯、泥干潟帯。
-緑色はマングローブ帯とのこと。
+上記赤色のところに現在トビハゼ属は分布、マングローブ帯と泥干潟帯の両方に分布している。
+緑色の帯はマングローブ帯とのこと。
+
+- アフリカ西岸に分布しているが、アメリカでの分布がない
+- アフリカ西岸と他は連続していない。どのようにアフリカ東西岸に移動したのか。
+
+- トビハゼ属はそれほど泳ぎが上手ではない。　それほど海流に乗って、死滅回遊
+- トビハゼ属はそれほど寒さに対しても強くない。
+- トビハゼ属は
+
+https://youtube.com/clip/Ugkxcu7b87dCoCl_F4ORY58iiZbOfAjlsrc-?si=IoUqrIiEp5ZH-izR
+
+東京湾のものがハプロタイプを持っているが、
+
+
+
+## 現在の分布を大陸移動図に重ね合わせてみる
 
 ![大陸の移動に、トビハゼの現在の分布を載せてみたもの](https://awakura.github.io/toby/img/tobihaze-distribu-and-continental-mouvt.png)
 

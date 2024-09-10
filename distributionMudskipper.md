@@ -27,10 +27,27 @@ https://commons.wikimedia.org/wiki/File:Mudhopper_map.png#/media/Datei:Mudhopper
 - トビハゼ属はそれほど寒さに対しても強くない。
 - トビハゼ属は
 
+
+- Gobiiformes
+  - Oxudercidae (Synonym: Gobionellidae)
+    - Oxudercinae 亜科
+      - Periophtalmus (Mudskippers)
+  - Gobiidae ハゼ科
+    - Gobionellinae 亜科
+      - ヨシノボリ属
+
+最も多様な淡水性ハゼ科魚類、ヨシノボリ類の進化史を解明。
+
+働いているとなぜ本が読めなくなるのか
+　諦めてまとまった時間取るといいよ。グリーン車
+　コスパを考えてまうから、成果を考えてまうからやと思う。
+　川の流れと一緒で、どんどん抜け落ちるから、忘れるつもりで補給するのがええんやと思う。
+
 https://youtube.com/clip/Ugkxcu7b87dCoCl_F4ORY58iiZbOfAjlsrc-?si=IoUqrIiEp5ZH-izR
 
 東京湾のものがハプロタイプを持っているが、
 
+![近縁種ヨシノボリの分岐時期](https://awakura.github.io/toby/img/yoshinobori.png)
 
 
 ## 現在の分布を大陸移動図に重ね合わせてみる

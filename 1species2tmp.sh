@@ -31,6 +31,11 @@ echo $?
 pandoc -s -c github.css -o distributionMudskipper.html distributionMudskipper.md
 echo $?
 echo "distribution.md"
+pandoc -s -c github.css -o glossaryMudskipper.html glossaryMudskipper.md
+echo $?
+
+
+
 
 
 

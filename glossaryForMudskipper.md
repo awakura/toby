@@ -1,5 +1,5 @@
 ---
-title: トビハゼ・主だったマッドスキッパーの日本語・英語対照表と、俗名・学名対照表
+title: トビハゼ関係用語集。俺版
 header-includes:
 	<meta name="keywords" content="トビハゼ,ニュース,論文,2355toby,Toby the mudskipper,P Modestus" />
 	<meta name="description" content="トビハゼ各種の、日英対照表です" />
@@ -8,30 +8,35 @@ header-includes:
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 
- English-Japanese references for common mudskippers
+Mudskipper glossary for dummies
 
-# 上位分類
+# 食事
 
-|和名|英名|
-|----|----|
-|ハゼ科|Gobiidae|
-|オグジュデルシネー亜科|Oxudercinae|
-|ムツゴロウ属|Boleophtalmus ボレオフタルムス|
-|トビハゼ属|Periophtalmus ペリオフタルムス|
+デトリタス食　detritus
 
-# 主だった種の対照表 
+生物の死骸、排出物、分解物などが堆積した泥。
+易分解性・難分解性、のものに大きく分けられる。
+一般的な、植物デトリタス食生物にとって、
+易分解性デトリタス(labaile detritus)は、オリゴペプチドを主とする。海藻由来、植物プランクトン由来。
+対して難分解性デトリタス(refactory detritus)は、海草由来となる。
+富岡湾干潟の表層砂のオリゴペプチド含量は砂１g乾燥重量あたり0.4−0.5mgとのこと。
+†
 
-|Genus name|Japanese name|Scientific name|English name	| Links |
-|----|----|----|----|----|
-|ムツゴロウ属|バードソンギ|Boleophtalmus birdsongi|North Australian great mudskipper/Birdsong's mudskipper|[wiki](https://en.wikipedia.org/wiki/Boleophthalmus_birdsongi)|
-||ムツゴロウ  |Boleophtalmus pectinirostris|reat blue spotted mudskipper|[wiki](https://en.wikipedia.org/wiki/Boleophthalmus_pectinirostris)|
-|トビハゼ属|ミナミトビハゼ     |Periophtalmus argentilineatus|barred mudskipper/silverlined mudskipper|[wiki](https://en.wikipedia.org/wiki/Barred_mudskipper)|
-||バルバルス 5y 16cm	    |Periophtalmus barbarus|Atlantic mudskipper|[wiki](https://en.wikipedia.org/wiki/Atlantic_mudskipper)|
-||トビハゼ  2y 7cm-10cm        |Periophtalmus modestus|shuttles mudskipper|[wiki](https://en.wikipedia.org/wiki/Shuttles_hoppfish)|
-|ペリオフタルモドン属|シュロセリ 27cm |Periophthalmodon schlosseri|giant mudskipper|[wiki](https://en.wikipedia.org/wiki/Giant_mudskipper)|
-|トカゲハゼ属|トカゲハゼ         |Scartelaos histophorus|Walking goby|[fishbase](https://fishbase.mnhn.fr/summary/7487)|
-|タビラクチ属|タビラクチ 6.7cm   |Apocryptodon punctatus|-|[fishbase](https://www.fishbase.se/Summary/SpeciesSummary.php?id=55511&lang=japanese)|
-|シューダポクリプテス属|ホコハゼ  |Pseudapocryptes elongatus|-|[fishbase](https://www.fishbase.se/Summary/SpeciesSummary.php?id=8409&lang=japanese)|
+引き込み摂食者　subductor
+深い巣を作るものは、基質表層にあるデトリタスを、巣穴の奥に引き込んで食べるものがある。体の上下運動や、漏斗上の巣などを用いる。
 
 
+bioturbation　ベントスによる基質改変作用
+トビハゼなどが巣穴を掘る、もしくは、干潟中のデトリタスや微生物を食べるために、大量の泥を巣穴から持ち出すことで、
+巣穴の灌水作用が起こり、酸化層の拡大と還元層の消失（窒素まわりの還元微生物群など）
+こういった改変作用を協力に起こすものを２０００年代初頭、生態系エンジニア　ecosystem engineerと言う向きもあった。
+†
 
+たくさん砂を掘る必要がある
+
+# 部位名称
+
+
+†　天草の渚（浅海性ベントスの生態学）§１砂質干潟のベントス群集　玉木昭夫
+ ハルマンスナモグリを中心に、三十年にわたる個体数の増減など、生物間のバランスなどを研究したもの。
+一旦は絶滅したかと思われる群が、捕食者のさらに上位の捕食圧などにより減ると、数十年経って数を増やす例などが紹介されている。

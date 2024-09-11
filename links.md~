@@ -1,6 +1,14 @@
-# Mudskipper useful webresources
+---
+title: トビハゼリンク
+header-includes:
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Papers,Idetify species" />
+	<meta name="description" content="トビハゼの種同定方法リンク、論文のリンクなど" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
 
-## 僕の作ったサイト
+# Mudskipper useful webresources
 
 うちの可愛いトビハゼ見にきてください。毎日１５秒で豆知識をお届けします。
 
@@ -30,8 +38,12 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 
 [お手軽に飼う](https://awakura.github.io/toby/easy.html)
 
-砂の作り方
+## 関連動物の飼育
 
+貝類を入れると水が綺麗になるのですが、貝類向けの藻類として、
+初心者でも簡単に培養できる藻類のTetraselmis sp.がいるそうです。
+
+[Tetraselmis sp.　初心者でも培養できる藻類](https://nria.fra.affrc.go.jp/hakko/news/15.pdf)
 
 # English mudskipper resources
 
@@ -41,17 +53,24 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 
 [Fishes Out of Water at CiNii](https://cir.nii.ac.jp/crid/1362544420916300672)
 
-## 東京湾関係
+# 東京湾関係
+
+東京湾のトビハゼについては、東京都の動物園の連絡協議会である東京ズーネットさんが詳しいです。
+また、トビハゼについて、現況がPDFにまとまっていて大変読みやすいです。
 
 [東京ズーネット　東京湾のトビハゼのいま](https://www.tokyo-zoo.net/conservation/tobihaze.html)
 
 [東京湾のトビハゼについてまとまったPDF](https://www.tokyo-zoo.net/conservation/img/tobihaze_no_ima.pdf)
 
-## 研究者
+# 研究室
 
 [石松研究室](https://mmurata0224.wixsite.com/ishimatsu)
 
-[Introductionary](http://www.mudskipper.it/Intro.html)
+田北先生の直系、石松先生の研究室
+
+[mudskipper.it](http://www.mudskipper.it/Intro.html)
+
+イタリアの有名なMudskipper研究者、Gianluca Polgar先生のサイト。
 
 ## 総論　トビハゼとは？系
 
@@ -61,44 +80,55 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 [Marli's mudskipper land](http://mudskipper.partials.net/)
 
 
+## トビハゼ近縁の種族に関する情報
 
-Mudskipperの各種族の情報
-
-
-ハゼは、多彩で、トビハゼだけじゃなく、ミミズハゼやトカゲハゼってのもいます。すげえ。
-
-スズキ目　ハゼ亜目　ハゼ化　オクスデルクス亜科
+スズキ目　ハゼ亜目　ハゼ化　オクスデルクス亜科の、
 　ムツゴロウ属、トビハゼ属、ムツゴロウ属、タビラクチ属
+について。
 
-[トカゲハゼ](http://www.okinawa-kaeru.net/wild/video/tokagehaze-video.html)
-Scartelaos histophorus
-トビハゼ目じゃないのに、巣穴を作ったり、メスの前でジャンプしたりと、そっくり
+[トカゲハゼ  Scartelaos histophorus](http://www.okinawa-kaeru.net/wild/video/tokagehaze-video.html)
 
+巣穴を作ったり、メスの前でジャンプしたりと、そっくり。
 
-## 未整理のリンク
-
-[ムツロゴウ・トビハゼ類の適応放散酸と系統進化に関する研究]
-(https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-06041085/)
+## 公的機関のトビハゼ関連リンク
 
 
-あまり科学的ではないのですが、カツオと乾燥赤虫を与えているトビハゼ水槽にいるアサリはいつも長生きしております。　逆に、鳥肉とかカニの餌があると、数日から１週間でアサリが死んでいる気がします。　油分でしょうか。　Tetraselmis興味深いです。
+### レッドデータアニマル系　絶滅系評価
 
-初心者でも簡単に培養できる藻類のTetraselmis sp.です。
-https://nria.fra.affrc.go.jp/hakko/news/15.pdf
-P5
+[東京都レッドデータブック　トビハゼ](https://tokyo-rdb.metro.tokyo.lg.jp/%E3%83%88%E3%83%93%E3%83%8F%E3%82%BC/)
 
+抜粋：東京湾の個体群は地理的に孤立しており、ミトコンドリアDNAに固有のハプロタイプを保有していることや、他地域との遺伝的交流が制限されていることが示されている。　執筆者　宮崎佑介
+区部では評価、CR。　環境省 NT
 
-オオトビハゼ属
-Periophthalmodon属
+## 研究論文、参考文献について
 
+[ムツロゴウ・トビハゼ類の適応放散酸と系統進化に関する研究](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-06041085/)
 
+## トビハゼの速度や突進速度についての参考文献
 
+[北海道開発局 魚道設計資料](https://www.hkd.mlit.go.jp/ob/tisui/kds/chiyodashinsuiro/ctll1r00000054w7-att/bunryu-shiryo-13.pdf)
 
-# 東京湾でのトビハゼ関係スケジュール
+1.表１３−６ アユ4−5cmの、突進速度50−70cm/s : 10BL/s、巡航速度5-10cm/s : 1-2BL/s 
+2.表１３−７　ハゼ6.7cmの、最大遊泳速度あるいは対流速度限界　27cm/s　佐藤(1980)
+をよく参考にしています
 
-６月
+### トビハゼ、マッドスキッパー群の分布、種の分化
 
-[行徳の野鳥保護区　トビハゼの日](https://gyotokubird.wixsite.com/npofgbo/single-post/6%E6%9C%888%E6%97%A5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%80%8E%E3%83%88%E3%83%93%E3%83%8F%E3%82%BC%E3%81%AE%E6%97%A5%E3%80%8F%E9%96%8B%E5%82%AC)
+[瀬戸内海を中心とした西南日本に生息するトビハゼの遺伝的多様性と文化](http://aquaanimal.net/cgi-bin/AA2020/AA2020-8.pdf)
 
-[定例干潟の観察会 ２週間おき程度、多摩川](https://tamagawa-tobihaze.amebaownd.com/pages/3081652/page_201907191559)
+[東京都レッドデータブック　トビハゼ](https://tokyo-rdb.metro.tokyo.lg.jp/%E3%83%88%E3%83%93%E3%83%8F%E3%82%BC/)
+
+抜粋：東京湾の個体群は地理的に孤立しており、ミトコンドリアDNAに固有のハプロタイプを保有していることや、他地域との遺伝的交流が制限されていることが示されている。　執筆者　宮崎佑介
+区部では評価、CR。　環境省 NT
+
+#### 一般的な遺伝系統学関連
+
+[二階堂先生 レトロポゾン、SINE法による、鯨偶蹄目](http://www.nikaido.bio.titech.ac.jp/past_research.html)
+
+# 動画
+
+##　漁
+
+[諫早湾のムツかけ漁](https://www.youtube.com/watch?v=Eia8zBuNq1o)
+
 

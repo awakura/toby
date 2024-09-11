@@ -12,7 +12,8 @@ Mudskipper glossary for dummies
 
 # 食事
 
-デトリタス食　detritus
+
+### デトリタス食　detritus
 
 生物の死骸、排出物、分解物などが堆積した泥。
 易分解性・難分解性、のものに大きく分けられる。
@@ -22,11 +23,11 @@ Mudskipper glossary for dummies
 富岡湾干潟の表層砂のオリゴペプチド含量は砂１g乾燥重量あたり0.4−0.5mgとのこと。
 †
 
-引き込み摂食者　subductor
+### 引き込み摂食者　subductor
 深い巣を作るものは、基質表層にあるデトリタスを、巣穴の奥に引き込んで食べるものがある。体の上下運動や、漏斗上の巣などを用いる。
 
 
-bioturbation　ベントスによる基質改変作用
+### bioturbation　ベントスによる基質改変作用
 トビハゼなどが巣穴を掘る、もしくは、干潟中のデトリタスや微生物を食べるために、大量の泥を巣穴から持ち出すことで、
 巣穴の灌水作用が起こり、酸化層の拡大と還元層の消失（窒素まわりの還元微生物群など）
 こういった改変作用を協力に起こすものを２０００年代初頭、生態系エンジニア　ecosystem engineerと言う向きもあった。
@@ -34,8 +35,24 @@ bioturbation　ベントスによる基質改変作用
 
 たくさん砂を掘る必要がある
 
+# 進化
+
+
+## 系統解析　phylogenetic analysis
+
+### 系統樹　phylogenetic tree
+
+### 分岐年代 divergence time
+
+(estimates of divergence times in the echinoidea)  Time scale of eutherian evolution
+
+
+
+
 # 部位名称
 
+
+# references
 
 †　天草の渚（浅海性ベントスの生態学）§１砂質干潟のベントス群集　玉木昭夫
  ハルマンスナモグリを中心に、三十年にわたる個体数の増減など、生物間のバランスなどを研究したもの。

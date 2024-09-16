@@ -15,6 +15,42 @@ header-includes:
 [トビーのほぼ毎日更新](https://www.youtube.com/@2355toby)
 
 
+# よく使う
+
+[階級（生物学）Wikipedia](https://ja.wikipedia.org/wiki/%E9%9A%8E%E7%B4%9A_(%E7%94%9F%E7%89%A9%E5%AD%A6))
+
+# 生物学など、関連分野の英語を調べるときに役立つ辞書
+
+[分類階級の英語一覧](https://www.kochi-u.ac.jp/w3museum/Fish_Labo/Member/Endoh/animal_taxonomy/termonology02.html)
+
+[階級（生物学）Wikipedia　英語対照表あります](https://ja.wikipedia.org/wiki/%E9%9A%8E%E7%B4%9A_(%E7%94%9F%E7%89%A9%E5%AD%A6))
+
+
+[系統解析の英語例文](https://fish-evol.org/DatabaseEnglish.html)
+
+[系統樹の基本](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=%E6%8E%88%E6%A5%AD/H24/%E9%80%B2%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6I/%E7%B3%BB%E7%B5%B1%E6%A8%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%94%A8%E8%AA%9E)
+
+
+
+## 分岐年代一覧
+
+
+![脊椎動物 分岐年代　熊本美術館](https://kumamoto-museum.net/kmnc/wp-content/uploads/sites/2/2020/06/73eab54b0e5d9166043ae8f2293fbe04.jpg)
+
+<img src="https://kumamoto-museum.net/kmnc/wp-content/uploads/sites/2/2020/06/73eab54b0e5d9166043ae8f2293fbe04.jpg" width="50%">
+
+海ー＞陸ー＞海
+原始的な爬虫類　330Mya　首長竜　230Mya , 100Mya
+
+原始的な爬虫類　330Mya　蛇類　ウミヘビ類　
+
+海ー＞陸ー＞空ー＞陸
+原始的な鳥類　150Mya
+
+
+盤竜類　330Mya
+
+
 
 ## トビハゼの種を調べるための良質リンク集 Identifying mudskipper species
 
@@ -62,11 +98,6 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 
 [東京湾のトビハゼについてまとまったPDF](https://www.tokyo-zoo.net/conservation/img/tobihaze_no_ima.pdf)
 
-# 生物学など、関連分野の英語に関して
-
-[系統解析の英語例文](https://fish-evol.org/DatabaseEnglish.html)
-
-[系統樹の基本](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=%E6%8E%88%E6%A5%AD/H24/%E9%80%B2%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6I/%E7%B3%BB%E7%B5%B1%E6%A8%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%94%A8%E8%AA%9E)
 
 # 研究室
 

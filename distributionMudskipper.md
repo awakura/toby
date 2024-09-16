@@ -46,6 +46,10 @@ https://commons.wikimedia.org/wiki/File:Mudhopper_map.png#/media/Datei:Mudhopper
 どう言う距離だと動けて、どういう距離だと動けないのか、を定義してちゃんと大陸移動とともに見つめ直す必要がある。
 
 
+##
+
+
+
 トビハゼから進化したのか？
 再度トビハゼは、陸上魚類
 　アシナシイモリ

@@ -17,7 +17,7 @@ pandoc -s -c github.css -o log.html log.md
 echo $?
 pandoc -s -c github.css -o links.html links.md
 echo $?
-pandoc -s -c github.css -o easy.html easy.md 
+pandoc -s -c ./github.css -o easy.html easy.md 
 echo $?
 echo "easy.md"
 pandoc -s -c github.css -o PModestusInTokyo.html PModestusInTokyo.md 

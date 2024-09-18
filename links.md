@@ -35,22 +35,44 @@ header-includes:
 ## 分岐年代一覧
 
 
-<img alt="脊椎動物 分岐年代　熊本美術館" src="https://kumamoto-museum.net/kmnc/wp-content/uploads/sites/2/2020/06/73eab54b0e5d9166043ae8f2293fbe04.jpg" width="50%">
+<img alt="†1 脊椎動物 分岐年代　熊本美術館" src="https://kumamoto-museum.net/kmnc/wp-content/uploads/sites/2/2020/06/73eab54b0e5d9166043ae8f2293fbe04.jpg" width="50%">
 
-[分子情報に基づいた真獣類の系統と進化(2021)](https://web.archive.org/web/20211207041922id_/https://www.jstage.jst.go.jp/article/mammalianscience/60/2/60_269/_pdf)
+[†3 分子情報に基づいた真獣類の系統と進化(2021)](https://web.archive.org/web/20211207041922id_/https://www.jstage.jst.go.jp/article/mammalianscience/60/2/60_269/_pdf)
 
-[SINE配列に学ぶ生命の進化](https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/36/8/36_8_523/_pdf/-char/ja)
+[†4 SINE配列に学ぶ生命の進化](https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/36/8/36_8_523/_pdf/-char/ja)
 
-食肉目が66Myaなので、イタチ科　カワウソはそれ以降
+食肉目が66Myaなので、イタチ科　カワウソはそれ以降　30Mya　CyZmayYUcAAGG5P.jpgによると
 
-海ー＞陸ー＞海
-原始的な爬虫類　330Mya　首長竜　230Mya , 100Mya
 
-原始的な爬虫類　330Mya　蛇類　ウミヘビ類　10Mya ! †2
+亀は元々陸やったんやな。　海亀がさきやと思ってた。
+トータス松本　はリクガメ
+ニンジャタートルズは海亀
+ニンジャトータスィーズのほうがええやろ、しらんけど。
+トビハゼと一緒に昼ごはん食べようと思って、マグロの刺身買ってきて、分け分けして食べた。　トビーはマグロがあまり好きじゃないようだ、青魚のときと食いつきが違う。
+
+
+海 → 陸 → 海
+
+・原始的な爬虫類　330Mya　→ 首長竜　230Mya 100Myaで海に戻る。
+・原始的な爬虫類　330Mya　→ 蛇類　ウミヘビ類　10Mya †2　320Myaで海に戻る
 
 嗅覚受容体
 †2
 [ウミヘビ類のゲノム解読に成功](https://www.excells.orion.ac.jp/news/1207)
+
+亀
+
+海亀爬虫類？　亀は陸亀。
+
+
+タガメ
+
+軟体動物、カタツムリ
+
+子供の頃水の中に住んで、
+
+子供の頃外に住んで　、水のなかに帰ってくる
+
 
 海ー＞陸ー＞空ー＞陸
 原始的な鳥類　150Mya

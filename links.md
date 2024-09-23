@@ -31,62 +31,18 @@ header-includes:
 [系統樹の基本](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=%E6%8E%88%E6%A5%AD/H24/%E9%80%B2%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6I/%E7%B3%BB%E7%B5%B1%E6%A8%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%94%A8%E8%AA%9E)
 
 
+トビハゼは水が苦手なわけではない。
+トビハゼは
+
+
 
 ## 分岐年代一覧
 
 
-<img alt="†1 脊椎動物 分岐年代　熊本美術館" src="https://kumamoto-museum.net/kmnc/wp-content/uploads/sites/2/2020/06/73eab54b0e5d9166043ae8f2293fbe04.jpg" width="50%">
+[トビハゼとラッコの意外な共通点。そして、圧倒的に可愛いラッコに、トビハゼはどう勝つか。](https://awakura.github.io/toby/divergenceTimeMudskipper.html)
 
-[†3 分子情報に基づいた真獣類の系統と進化(2021)](https://web.archive.org/web/20211207041922id_/https://www.jstage.jst.go.jp/article/mammalianscience/60/2/60_269/_pdf)
-
-[†4 SINE配列に学ぶ生命の進化](https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/36/8/36_8_523/_pdf/-char/ja)
-
-食肉目が66Myaなので、イタチ科　カワウソはそれ以降　30Mya　CyZmayYUcAAGG5P.jpgによると
-
-
-亀は元々陸やったんやな。　海亀がさきやと思ってた。
-トータス松本　はリクガメ
-ニンジャタートルズは海亀
-ニンジャトータスィーズのほうがええやろ、しらんけど。
-トビハゼと一緒に昼ごはん食べようと思って、マグロの刺身買ってきて、分け分けして食べた。　トビーはマグロがあまり好きじゃないようだ、青魚のときと食いつきが違う。
-
-
-海 → 陸 → 海
-
-・原始的な爬虫類　330Mya　→ 首長竜　230Mya 100Myaで海に戻る。
-・原始的な爬虫類　330Mya　→ 蛇類　ウミヘビ類　10Mya †2　320Myaで海に戻る
-
-嗅覚受容体
-†2
-[ウミヘビ類のゲノム解読に成功](https://www.excells.orion.ac.jp/news/1207)
-
-亀
-
-海亀爬虫類？　亀は陸亀。
-
-
-タガメ
-
-軟体動物、カタツムリ
-
-子供の頃水の中に住んで、
-
-子供の頃外に住んで　、水のなかに帰ってくる
-
-
-海ー＞陸ー＞空ー＞陸
-原始的な鳥類　150Mya
- ダチョウ
- キウイ
-
-原始的な哺乳類　盤竜類　330Mya　
-
-北方獣類　食肉目が66Myaなので、イタチ科　カワウソはそれ以降
-
-ジュゴンなど　アフリカ獣類海牛目は66Mya　以降
-北方獣類  鯨偶蹄目は　66Mya以前、鯨類は55Mya
-
-
+海と山をいったりきたりしているその他の動物たちと、トビハゼの進化のスケールを比較する。
+分岐年代の調査については、下記ページにまとめた。
 
 
 ## トビハゼの種を調べるための良質リンク集 Identifying mudskipper species

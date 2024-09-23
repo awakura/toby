@@ -17,7 +17,7 @@ pandoc -s -c github.css -o log.html log.md
 echo $?
 pandoc -s -c github.css -o links.html links.md
 echo $?
-pandoc -s -c ./github.css -o easy.html easy.md 
+pandoc -s -c github.css -o easy.html easy.md 
 echo $?
 echo "easy.md"
 pandoc -s -c github.css -o PModestusInTokyo.html PModestusInTokyo.md 
@@ -33,6 +33,9 @@ echo $?
 echo "distribution.md"
 pandoc -s -c github.css -o glossaryForMudskipper.html glossaryForMudskipper.md
 echo $?
+pandoc -s -c github.css -o divergenceTimeMudskipper.html divergenceTimeMudskipper.md
+echo $?
+pandoc -s -c github.css -o indexEn.html indexEn.md
 
 
 

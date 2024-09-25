@@ -9,8 +9,8 @@
 
 #md に<head>入れていいか？
 
-pandoc -s -c github.css -o species.html species.md
-echo $?
+# pandoc -s -c github.css -o species.html species.md
+# echo $?
 pandoc -s -c github.css -o speciesMain.html speciesMain.md 
 echo $?
 pandoc -s -c github.css -o log.html log.md 

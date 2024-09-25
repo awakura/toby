@@ -8,20 +8,21 @@ header-includes:
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 
-# Toby the mudskipper
+# Toby the mudskipper, mudskipper in Japan
+
 
 ## FAQ
 
-### How to call mudskipper in Japan ?
+### How to say "mudskipper" in Japanese ?
 
-Actually it is a tough question.
-Mudskipper is a collective term, but Japanese has not obvious collective term for these mudskipper.
-Maybe using Japanese term とびはぜ (To-bi-ha-ze) is most suitable for mudskippers, but this "Tobihaze" means, In a narrow sense, 'Tobihaze' refers to P. modestus.
+Actually it's a tough question.
+Mudskipper is a collective term, but Japanese has not obvious collective term for mudskippers.
+Most suitable Japanese term for mudskippers is とびはぜ (To-bi-ha-ze) , but this "とびはぜ(Tobihaze)" often means in a narrow sense, refers to P. modestus.
 
-Five species of mudskippers can be found in Japan, but these five types of mudskippers are referred to by their own individual names, not as a collective term.
+Five species of mudskippers can be found in Japan, but these five types of mudskippers are referred to by their own individual names and , not as a collective term.
 
 
-### Boleophtalmus pectinirostris
+#### Boleophtalmus pectinirostris
 
 Great blue spotted mudskipper
 
@@ -29,7 +30,7 @@ Great blue spotted mudskipper
 
 In a Saga region local dialect, ムツ(Mu-tsu) means "Greasy" and ゴロウ means "Goby".
 
-### Periophtalmus modestus
+#### Periophtalmus modestus
 
 Shuttles mudskipper
 
@@ -37,7 +38,7 @@ Shuttles mudskipper
 
 トビハゼ means "Hopping Goby".トビ(To-bi) means "Hop" and ハゼ(Ha-ze) means goby in Japanese.
 
-### Periophtalmus argentilineatus
+#### Periophtalmus argentilineatus
 
 Barred mudskipper/silverlined mudskipper
 
@@ -45,7 +46,7 @@ Barred mudskipper/silverlined mudskipper
 
 ミナミ(Mi-na-mi) means "South-region" and トビハゼ is same as shown above in P.Modestus.
 
-### Scartelaos histophorus
+#### Scartelaos histophorus
 
 Walking goby
 
@@ -54,8 +55,7 @@ Walking goby
 トカゲ means "Lizard" and ハゼ(Ha-ze) means "goby" in Japanese.
 
 
-
-### References
+#### References
 
 [Popular mudskippers English - Japanese -Scientific name Reference](https://awakura.github.io/toby/speciesMain.html)
 

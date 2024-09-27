@@ -33,7 +33,7 @@ echo $?
 echo "distribution.md"
 pandoc -s -c github.css -o glossaryForMudskipper.html glossaryForMudskipper.md
 echo $?
-pandoc -s -c github.css -o divergenceTimeMudskipper.html divergenceTimeMudskipper.md
+pandoc -s -c github.css -o riddleOfMudskipper.html riddleOfMudskipper.md
 echo $?
 pandoc -s -c github.css -o indexEn.html indexEn.md
 

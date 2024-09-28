@@ -1,5 +1,5 @@
 ---
-title: Toby the mudskipper, P. Modestus researcher in Japan
+title: Toby the mudskipper, Mudskipper in Japan
 header-includes:
 	<meta name="keywords" content="Mudskipper,Toby the mudskipper,P Modestus,Japanese,2355Toby" />
 	<meta name="description" content="Mudskipper researcher in Japan" />
@@ -7,9 +7,6 @@ header-includes:
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
-
-# Toby the mudskipper, mudskipper in Japan
-
 
 ## FAQ
 

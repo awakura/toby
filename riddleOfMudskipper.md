@@ -1,7 +1,7 @@
 ---
 title: トビハゼの不思議集　riddle of Mudskippers
 header-includes:
-	<meta name="keywords" content="トビハゼ,分岐年代,論文,2355toby,Toby the mudskipper,P Modestus,ラッコ" />
+	<meta name="keywords" content="トビハゼ,分岐年代,論文,2355toby,Toby the mudskipper,P Modestus,素朴な疑問" />
 	<meta name="description" content="トビハゼにまつわる謎について、分かったことを記述しています。" />
 	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
@@ -36,9 +36,17 @@ header-includes:
 [†1 生物の多様性分野の環境影響評価技術（III）　生態系アセスメントの進め方について（平成13年9月）](http://assess.env.go.jp/files/0_db/seika/4738_01/3/sec1-2.html)
 
 
+### トビハゼは魚なのに陸上を歩いているから、我々地上に生きる生き物の祖先なのか？進化して両生類になったのか！
+
+そうなんです！といいたいところですが、実は全く祖先じゃないそうです。
+我々の祖先である魚は
+
+肉鰭類（
 
 
 
+
+# 細かいバージョン
 
 ### トビハゼの陸地への適応　もっと細かいバージョン
 
@@ -58,7 +66,6 @@ header-includes:
 
 歩いてくる大型
 ・カニとの間合いをどう詰めているか  トビハゼが直前までこっちみてるのは、カニとの戦い方
-
 
 ちなみに、魚なのになぜ地上にいるのか、というのはもっともな疑問なのですが、
 田んぼに住んでいるドジョウなども、土の中に潜って、皮膚呼吸をしながら来年の田植えを待ったりできるらしいです。

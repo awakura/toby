@@ -60,9 +60,16 @@ Mudskipper glossary for dummies
 
 #### 条鰭類（じょうきるい）　ただし条鰭亜綱、もしくは、条鰭綱、もしくは条鰭上綱として　Actinopterygii
 
-我らがトビハゼ様が含まれる。
+我らがトビハゼ様が含まれる。条鰭類（じょうきるい）亜綱や上綱として扱われることが多い模様です。
 サメなどの軟骨魚類や肺魚、円口類をのぞけば、魚類３万種のうち９５％、ほとんどの魚がこの条鰭亜綱に含まれる。
-トビハゼ様は、
+トビハゼ様は、その中でも最新の
+Acanthomorpha　Acanthopterygii	
+Berycimorphaceae	
+Beryciformes (alfonsinos; whalefishes) 
+
+Trachichthyiformes (pinecone fishes; slimeheads) 
+
+Percomorpha
 K-T境界後、6,600万年後から爆発的に種類を増やした
 
 

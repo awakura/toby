@@ -1,92 +1,66 @@
 ---
-title: トビハゼ・マッドスキッパーの多言語での呼び名
+title: GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）
 header-includes:
-	<meta name="keywords" content="トビハゼ,ニュース,論文,2355toby,Toby the mudskipper,P Modestus" />
-	<meta name="description" content="トビハゼに関する各種情報を集めています。みんなで泥干潟を大事にしようよ" />
+	<meta name="keywords" content="トビハゼ,pandoc,2355toby,Toby the mudskipper,P Modestus" />
+	<meta name="description" content="トビハゼサイトを作っているうちに、GitHUBとPandocについて学んだこと" />
 	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 
-# Multi-lingual references for common mudskippers
+# GitHUBとPandocについてわかったこと
+
+## 特に大事な情報
+
+[pandocの日本語訳プロジェクト](https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html)
+
+pandocでできること増えたりするから、たまに見直した方がいい。
+フリーでpdfにもoutputできるらしい。みんな入れた方がいい。
+
+[GitHub auctions](https://docs.github.com/ja/actions)
+
+個人プロジェクトはGitHUB Auctionsを利用できる。
+metaタグを自動でくっつけようと思ったが、ずっとScript Errorが出てうまくいってない。
+できること増えたりするから、たまに見直した方がいい。
 
 
-|和名	|トビハゼ	|（和名無し）	|ミナミトビハゼ	|（和名無し）	|ムツゴロウ	|
-|----|----|----|----|----|----|
-|生息域	| 東アジア熱帯	|オーストラリア	|		|西アフリカ、西インド|		|
-|科名	|ハゼ科		|ハゼ科		|ハゼ科		|ハゼ科		|ハゼ科		|
-|亜科	|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|オキスデルシス亜科|
-|属	|Periophthalmus	|Periophthalmus	|Periophthalmus	|Periophthalmus	|Boleophthalmus	|
-|学名	|P. modestus	|P. gracilis	|P.argentilineatus|P.barubarus	|B.pectinirostris|
-|和名	|トビハゼ	|   		|ミナミトビハゼ	|		|ムツゴロウ	|
-|英語名	|Shuttles mudskipper|Slender mudskipper	|Barred / Silverlined mudskipper|Atlantic mudskipper|great blue spotted mudskipper|
-|繁体字	|廣東彈塗魚	|		|銀身彈塗魚	|	|大彈塗魚		|
-|簡体字	|广东弹涂鱼	|		|银身弹涂鱼	|	|大弹涂鱼		|
-|韓国語	|말뚝망둥어	|		|		|	|짱뚱어		|
-|	|		|		|		|	|		|
-|	|		|		|		|	|		|
-|	|		|		|		|	|		|
-|アラビア語|گل‌خورک ماکو	|		|گل‌خورک نواری	|	|		|
-|ロシア語|なし		|		|		|	|		|
-|スペイン語|なし		|		|		|	|		|
-|	|		|		|		|	|		|
-|Thai	|		|ตีน กระจัง พรวด	|		|	|		|
-|Tieng Viet|-		|Cá thòi lòi vạch ngang trắng|	|	|Cá nác hoa	|
-|Bahasa Malaysia|	|   	     	|	    	|	|		|
-|Bahasa Indonesia|	|   	     	|	    	|	|Tembakul totol biru|
-|Svenska|Kantonesisk slamkrypare|	|		|	|		|
+```md はutf-8 がデフォルト。困ったら、
+#pandoc -s -o index.html README.md
+#file --mime <filename>
+#iconv -f -t    change charset
+```
 
 
+## 隠しファイルをUploadしようとするGitHUB Studio対策
 
-P. argentilineatus  Barred / Silverlined mudskipper   (Valenciennes,1837 - ミナミトビハゼ[27
-P. barbarus (Linnaeus,1766) - 西アフリカ   Atrantic mudskipper
-[Atrantic mudskipper](https://uk.inaturalist.org/taxa/67836-Periophthalmus-barbarus)
-
-
-P. chrysospilos Bleeker,1852 - 東インド洋
-P. darwini Larson et Takita,2004 - オーストラリア北部
-Darwin's mudskipper
-
-[Darwin's mudskipper](https://uk.inaturalist.org/taxa/530080-Periophthalmus-darwini)
-
-P. gracilis Eggert,1935 - 東南アジア
-
-[P. gracillis / Slender mudskipper / 5cm](https://fishesofaustralia.net.au/home/species/2257)
-https://uk.inaturalist.org/taxa/461060-Periophthalmus-gracilis
-
-P.Kaolo Rectotype ?
-
-https://uk.inaturalist.org/taxa/423841-Periophthalmus-magnuspinnatus
-P. magnuspinnatus Lee, Choi et Ryu,1995 - 朝鮮半島
+```
+touch .gitignore
+して、.DS_Store
+とかファイルに書くと幸せに。
+自分自身、 .gitignore
+も書いとかないとアップロードされそうになる。
+```
 
 
+## titleをpandocのコマンドラインで入れる
 
-|総称	|トビハゼ|（トビハゼおよびミナミトビハゼの事を指す）|
-|----|----|----|
-|英語名	|Mudskipper|オックスデルシナ科の総称|
-|繁体字	|彈塗魚	|	|
-|簡体字	|弹涂鱼	|	|
-|韓国語	|망둥어	|	|
-|アラビア語|گل‌خورک |	|
-|ロシア語|Стрибунові|	|
-|イタリア語|pesci saltafango|		|
-|スペイン語|peces del fango|		|
-|ドイツ語|Schlammspringerverwandte|		|
-|Thai	|ปลาตีน|	|
-|Tieng Viet|Cá thòi lòi||
-|Bahasa Malaysia|Ikan Belacak|		|
-|Bahasa Indonesia|Tembakul|		|
-|Hindi  |पंकलंघी	|	|
-|Svenska|Slamkrypare|	|
+```titleをコマンドラインで突っ込む
+pandoc -s -c github.css -o species.html species.md --metadata title="Multi-lingual references for mudskippers"
+echo $?
+```
 
+## metaタグやアイコン、titleをmd, Markdown上に記述するには、mdファイル上部に下記のようなYAML風記述を書いてpandocで変換すればOK
 
+```Markdownで、アイコン設定して、pandocする。
+---
+title: GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）
+header-includes:
+	<meta name="keywords" content="トビハゼ,pandoc,2355toby,Toby the mudskipper,P Modestus" />
+	<meta name="description" content="トビハゼサイトを作っているうちに、GitHUBとPandocについて学んだこと" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
+```
 
-P. Kaloloは、　P. argentilineatusのレクトタイプの模様。
-[論文](https://www.researchgate.net/figure/Results-of-the-ML-analyses-of-the-different-P-argentilineatus-and-P-kalolo-clades-using_fig2_260042765)
-
-
-https://www.asahi.com/articles/ASN562STYN55ULBJ00S.html
-石松惇名誉教授らは、メコン川を河口から約200キロ上流のカンボジア国境付近まで調査。水の外でも暮らせるトビハゼの仲間が、河口を離れるといなくなるのに、ある一種（Periophthalmodon　septemradiatus）だけは150キロほど上流まで分布していた。
-
-[ヨダレカケ Andamia tetradactylus](https://en.wikipedia.org/wiki/Andamia_tetradactylus)
 

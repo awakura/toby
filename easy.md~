@@ -1,9 +1,16 @@
-
-% title 自宅で簡単泥干潟
-
+---
+title: ゆるくトビハゼを飼う（自宅で簡単泥干潟）
+header-includes:
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,水槽,飼い方" />
+	<meta name="description" content="ゆるくトビハゼを飼う方法（自宅で簡単泥干潟）" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
 
 # 自宅で簡単泥干潟
-## Easy mudlfat aquarium
+
+Easy mudlfat aquarium
 
 東京で、トビハゼなどの汽水の生き物を、安く楽しく飼う方法を研究？しています。
 東京はトビハゼの生息北限です。美しい干潟をいつまでも一緒に守りましょう。
@@ -62,6 +69,8 @@ I aspire to perpetually preserve the invaluable tidal flats.　
 ・空気はたまに送り込んでやれば大丈夫（皮膚呼吸！）だが、二枚貝がいるなら、日が沈んだらポンプで送り込んであげる。日中は藻が作ってくれる。
 ・泥も時々入れ替えてあげればいい。全入れ替えじゃなくて大丈夫。
 ・塩分濃度は、1.014-1.019 ppmくらいだと調子が良さそう。　住んでいる場所に合わせてあげるのが良い。
+・あまり科学的ではないのですが、カツオと乾燥赤虫を与えているトビハゼ水槽にいるアサリはいつも長生きしております。　逆に、鳥肉とかカニの餌があると、数日から１週間でアサリが死んでいる気がします。原因は油分だと見ています。
+
 
 ### 東京湾の塩分濃度
 
@@ -112,7 +121,6 @@ P.4
 明治４３年の大洪水を契機に江戸川放水路が作成された。
 
 改修のため、数ヶ月間、トビハゼを飼育施設に移動させて、工事改修後戻している。
-
 
 
 

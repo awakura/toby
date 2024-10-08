@@ -1,5 +1,5 @@
 ---
-title: トビハゼ関係用語集。俺版
+title: トビハゼ関係用語集
 header-includes:
 	<meta name="keywords" content="トビハゼ,ニュース,論文,2355toby,Toby the mudskipper,P Modestus" />
 	<meta name="description" content="トビハゼ各種の、日英対照表です" />
@@ -7,6 +7,11 @@ header-includes:
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
+
+[Return to top](https://awakura.github.io/)
+
+___
+
 
 Mudskipper glossary for dummies
 

@@ -24,8 +24,6 @@ pandoc -s -c github.css -o PModestusInTokyo.html PModestusInTokyo.md
 echo $?
 pandoc -s -c github.css -o sched.html sched.md 
 echo $?
-pandoc -s -c github.css -o log.html log.md
-echo $?
 pandoc -s -c github.css -o pandoc.html pandoc.md
 echo $?
 pandoc -s -c github.css -o distributionMudskipper.html distributionMudskipper.md

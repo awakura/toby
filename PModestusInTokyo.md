@@ -1,5 +1,5 @@
 ---
-title: 東京のトビハゼ動態
+title: 東京のトビハゼ生態 Mudskipper P. modestus behavior in Tokyo
 header-includes:
 	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Northern limit,Tokyo,Behavior" />
 	<meta name="description" content="東京でのトビハゼの様子、生態を記録しています。" />
@@ -8,8 +8,9 @@ header-includes:
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 
-# 東京におけるトビハゼの生態
+[Return to top](https://awakura.github.io/)
 
+___
 
 
 ### トビハゼの生理的、生態的特性

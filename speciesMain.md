@@ -1,12 +1,16 @@
 ---
 title: トビハゼの各国語対照表・和名学名対照表　
 header-includes:
-	<meta name="keywords" content="トビハゼ,mudkipper,multi-lingual" />
+	<meta name="keywords" content="トビハゼ,toby the mudkipper,multi-lingual" />
 	<meta name="description" content="トビハゼの、日英対照表です" />
 	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
+
+[Return to top](https://awakura.github.io/)
+
+___
 
  English-Japanese-Scientific name references for common mudskippers
 

@@ -1,5 +1,5 @@
 ---
-title: トビハゼの不思議集　riddle of Mudskippers
+title: トビハゼの謎、トビハゼの不思議集　
 header-includes:
 	<meta name="keywords" content="トビハゼ,分岐年代,論文,2355toby,Toby the mudskipper,P Modestus,素朴な疑問" />
 	<meta name="description" content="トビハゼにまつわる謎について、分かったことを記述しています。" />
@@ -7,6 +7,10 @@ header-includes:
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
+
+[Return to top](https://awakura.github.io/)
+
+___
 
 # 魚なのになぜトビハゼは陸上にいるのか？　素朴な疑問集。
 
@@ -36,8 +40,7 @@ header-includes:
 [†1 生物の多様性分野の環境影響評価技術（III）　生態系アセスメントの進め方について（平成13年9月）](http://assess.env.go.jp/files/0_db/seika/4738_01/3/sec1-2.html)
 
 
-
-### トビハゼは魚なのに陸上を歩いているから、我々地上に生きる生き物の祖先なのか？進化して両生類になったのか！
+### トビハゼは魚なのに陸上を歩いているから、我々地上に生きる生き物の祖先なのか？進化して両生類になったのか？
 
 そうなんです！といいたいところですが、実は全く祖先じゃないそうです。
 ラッコや我ら哺乳類はシーラカンスなどの肉鰭類（ヒレの根本が背骨と肩のような太い骨とつながっている、ヒレの動きを支えている）、それに対しトビハゼなどは条鰭類（ヒレの根本に太い骨がなく、細い骨が何本もある）から進化したものです。
@@ -61,6 +64,26 @@ header-includes:
 それに対して、トビハゼは積極的に屍肉食をします。ちょっと大きくても、水をつたって、死体の味が伝わってくると食べるようです。
 これに対して、トビハゼ類は、死体があると積極的に食べます。ただ不思議なのは、全てを食べ切るというよりは、２、３日かけちょっとずつ食べます。酢漬けは食べませんでした
 
+
+
+
+### トビハゼはどうやってジャンプしているのか？
+
+
+#### ご参考：トビウオの飛行速度と、水中突進速度の関係を超ざっくりで。
+
+重力による終端速度の式は、以下の通り。　式は、重力と速度に比例した反作用が釣り合う点である、 mg - kVt = 0を変形したものだと思う。（たぶん）
+
+<img src="https://www.gstatic.com/education/formulas2/553212783/ja/terminal_velocity.svg" alt="終端速度の式">
+
+仮で水と空気のCdは同一とすれば、Aは水・空で同一。2/ACd　はConstant。
+トビウオの終端速度は、mgの代わりに推力Fで置き換えて、
+水中でも空気中でも尾鰭から得た推力は同じと考えれば、Fも水・空で同一。
+
+空気中と水中の最大速度の関係は　空気中最大速度　/ √空気の密度　＝　水中最大速度　/ √水の密度
+
+空気の密度は約1.23kg / m3　。　それに対して水は１０００リットルなので、　1000kg / m3。
+つまり、空気中速度は、水中最大速度のざっくり√1000倍　つまり、30倍
 
 
 # 細かいバージョン
@@ -146,7 +169,8 @@ https://www.osaka-u.ac.jp/ja/news/topics/2024/09/13001
 
 Once upon a time Joseph Campbell said "And the only myth that is going to be worth thinking about in the immediate future is one that is talking about the planet, not the city, not these people, but the planet, and everybody on it."
 And now, we have a universal problem with planet, the climate change.
-We Hitachi are coping with this climate change through our environmental-concious products,
+We are coping with this climate change through our environmental-concious products,
+
 
 
 亀は元々陸やったんやな。　海亀がさきやと思ってた。

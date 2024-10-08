@@ -26,12 +26,16 @@
 <header id="title-block-header">
 <h1 class="title">GitHUBとPandocについて学んだこと（トビハゼサイトを作っているうちに）</h1>
 </header>
+<p><a href="https://awakura.github.io/">Return to top</a></p>
+<hr />
 <h1 id="githubとpandocについてわかったこと">GitHUBとPandocについてわかったこと</h1>
 <h2 id="特に大事な情報">特に大事な情報</h2>
 <p><a href="https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html">pandocの日本語訳プロジェクト</a></p>
 <p>pandocでできること増えたりするから、たまに見直した方がいい。 フリーでpdfにもoutputできるらしい。みんな入れた方がいい。</p>
 <p><a href="https://docs.github.com/ja/actions">GitHub auctions</a></p>
 <p>個人プロジェクトはGitHUB Auctionsを利用できる。 metaタグを自動でくっつけようと思ったが、ずっとScript Errorが出てうまくいってない。 できること増えたりするから、たまに見直した方がいい。</p>
+<h2 id="ページ内リンク">ページ内リンク</h2>
+<p>ページ内リンクは、markdownで作るよりも、Chromeでページ表示してジャンプしたい場所を右クリック→「選択箇所へのリンクをコピー」が最強。ちゃんとSafariでも対応している。IEは・・・大丈夫でしょ。最近のはベースがChromeらしいし。魔改造</p>
 <p><code>md はutf-8 がデフォルト。困ったら、 #pandoc -s -o index.html README.md #file --mime &lt;filename&gt; #iconv -f -t    change charset</code></p>
 <h2 id="隠しファイルをuploadしようとするgithub-studio対策">隠しファイルをUploadしようとするGitHUB Studio対策</h2>
 <pre><code>touch .gitignore

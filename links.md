@@ -1,5 +1,5 @@
 ---
-title: トビハゼリンク
+title: トビハゼ関係リンク集
 header-includes:
 	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Papers,Idetify species" />
 	<meta name="description" content="トビハゼの種同定方法リンク、論文のリンクなど" />
@@ -7,6 +7,10 @@ header-includes:
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
+
+[Return to top](https://awakura.github.io/)
+
+___
 
 # Mudskipper useful webresources
 
@@ -16,6 +20,10 @@ header-includes:
 
 
 # よく使う
+
+
+
+[魚類用語集 Wiki](https://ja.wikipedia.org/wiki/%E9%AD%9A%E9%A1%9E%E7%94%A8%E8%AA%9E)
 
 [階級（生物学）Wikipedia](https://ja.wikipedia.org/wiki/%E9%9A%8E%E7%B4%9A_(%E7%94%9F%E7%89%A9%E5%AD%A6))
 
@@ -31,8 +39,14 @@ header-includes:
 [系統樹の基本](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=%E6%8E%88%E6%A5%AD/H24/%E9%80%B2%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6I/%E7%B3%BB%E7%B5%B1%E6%A8%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%94%A8%E8%AA%9E)
 
 
+
+
 トビハゼは水が苦手なわけではない。
-トビハゼは
+泳ぐのが下手で、トビハゼを狙う捕食者が波打ち際にいるので、水の近くに居たくないのだ。
+目が上についているので、鳥などの方が把握しやすい。振動も比較的感知する。だから、
+
+トビハゼは白い服が苦手だ。鳥を想起するからだ。　海の近くにいる鳥は白い。　空の白さ、波の白さに紛れて魚を取る。
+
 
 
 ## 環境省系
@@ -143,7 +157,9 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 
 ## トビハゼの速度や突進速度についての参考文献
 
-[北海道開発局 魚道設計資料](https://www.hkd.mlit.go.jp/ob/tisui/kds/chiyodashinsuiro/ctll1r00000054w7-att/bunryu-shiryo-13.pdf)
+[北海道開発局 魚道設計資料 魚類速度](https://www.hkd.mlit.go.jp/ob/tisui/kds/chiyodashinsuiro/ctll1r00000054w7-att/bunryu-shiryo-13.pdf)
+
+淡水魚など、魚類の突進速度、巡航速度、の情報がめちゃあります。
 
 1.表１３−６ アユ4−5cmの、突進速度50−70cm/s : 10BL/s、巡航速度5-10cm/s : 1-2BL/s 
 2.表１３−７　ハゼ6.7cmの、最大遊泳速度あるいは対流速度限界　27cm/s　佐藤(1980)
@@ -167,5 +183,35 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 ##　漁
 
 [諫早湾のムツかけ漁](https://www.youtube.com/watch?v=Eia8zBuNq1o)
+
+
+# トビハゼ関係論文群とその要約
+
+[魚眼の構造 (2020)](https://shudo-u.repo.nii.ac.jp/record/3062/files/KJ19001.pdf)
+
+要約：
+
+角膜の屈折率は、魚類と人間で大きな差はなく、水の1.33に近い。
+魚類の虹彩は、変化するものが少なく、うなぎやひらめの仲間など、一部の魚類だけが変化させることができる。
+魚類の虹彩にはグアニンが含まれ、銀色を呈する。（猫の網膜の赤目成分などと同じ）
+
+魚類のレンズは丸い。というか、丸い方が普通で、陸地に出たため、水と異なる大きな屈折率対策で、レンズで平たくなった。
+硬骨魚類眼球内の水晶体の、光軸直径と赤道直径の比は金魚0.82、淡水ボラ0.86である。
+陸上にいるトビハゼは、ひょっとして四肢動物のように平たいかと思いきや、0.84で、丸い。
+焦点距離が短く、ピントの合った像を網膜に結像させるには都合がよい。
+３０度から４０度程度、レンズは移動する。
+
+錐体密度から組織学的に求めた視力は、コイで、0.07。
+恋は盲目っていうけど、違うんやね。
+
+水晶体の厚みではなく、水晶体を移動してピントを合わせる。
+肉食性のものは水晶体筋が発達する傾向、ナマズウナギボラなどは、水晶体筋の発達が悪く、水晶体が移動しない（目が必要ないような
+見通しの悪い場所にいるもの）
+魚類の視力は、0.06−0.5相当。　俺よりも目がいい。
+
+トビハゼは、眼球の方向を自由に変えることができ、１８０度見渡すことがかのう。両岸視野は１０度ー１５度
+陸地に出ていると、突出し、満潮時には頭部に引き寄せられている
+（Schwab、2003）
+
 
 

@@ -8,6 +8,11 @@ header-includes:
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 
+[Return to top](https://awakura.github.io/)
+
+___
+
+
 # GitHUBとPandocについてわかったこと
 
 ## 特に大事な情報
@@ -22,6 +27,12 @@ pandocでできること増えたりするから、たまに見直した方が�
 個人プロジェクトはGitHUB Auctionsを利用できる。
 metaタグを自動でくっつけようと思ったが、ずっとScript Errorが出てうまくいってない。
 できること増えたりするから、たまに見直した方がいい。
+
+
+## ページ内リンク
+
+ページ内リンクは、markdownで作るよりも、Chromeでページ表示してジャンプしたい場所を右クリック→「選択箇所へのリンクをコピー」が最強。ちゃんとSafariでも対応している。IEは・・・大丈夫でしょ。最近のはベースがChromeらしいし。魔改造
+
 
 
 ```md はutf-8 がデフォルト。困ったら、

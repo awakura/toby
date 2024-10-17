@@ -13,6 +13,11 @@ header-includes:
 ___
 
 
+[マークダウン早見表](https://www.cosmo.sci.hokudai.ac.jp/~ymoteki/contents/markdown.html)
+
+GitHub Flavored Markdown(GFM)についても言及あります。
+
+
 # GitHUBとPandocについてわかったこと
 
 ## 特に大事な情報

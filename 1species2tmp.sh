@@ -11,9 +11,9 @@
 
 # pandoc -s -c github.css -o species.html species.md
 # echo $?
+
+
 pandoc -s -c github.css -o speciesMain.html speciesMain.md 
-echo $?
-pandoc -s -c github.css -o log.html log.md 
 echo $?
 pandoc -s -c github.css -o links.html links.md
 echo $?
@@ -37,8 +37,9 @@ pandoc -s -c github.css -o indexEn.html indexEn.md
 echo $?
 echo indexEn
 pandoc -s -c github.css -o phylogeneticTrees.html phylogeneticTrees.md
-echo $?
-echo phylogenetic Tree
+echo $? phylogeneticTrees
+#pandoc -s -c github.css -o log.html log.md 
+echo $? [by-passing] log.md
 
 
 

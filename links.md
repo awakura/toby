@@ -153,15 +153,27 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 
 [ムツロゴウ・トビハゼ類の適応放散酸と系統進化に関する研究](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-06041085/)
 
+
 ## トビハゼの速度や突進速度についての参考文献
 
-[北海道開発局 魚道設計資料 魚類速度](https://www.hkd.mlit.go.jp/ob/tisui/kds/chiyodashinsuiro/ctll1r00000054w7-att/bunryu-shiryo-13.pdf)
+### [北海道開発局 魚道設計資料 魚類速度](https://www.hkd.mlit.go.jp/ob/tisui/kds/chiyodashinsuiro/ctll1r00000054w7-att/bunryu-shiryo-13.pdf)
 
 淡水魚など、魚類の突進速度、巡航速度、の情報がめちゃあります。
 
 1.表１３−６ アユ4−5cmの、突進速度50−70cm/s : 10BL/s、巡航速度5-10cm/s : 1-2BL/s 
 2.表１３−７　ハゼ6.7cmの、最大遊泳速度あるいは対流速度限界　27cm/s　佐藤(1980)
 をよく参考にしています
+
+### [魚類の遊泳運動](https://www.jstage.jst.go.jp/article/hikakuseiriseika1990/10/4/10_4_249/_pdf)
+
+66cm/sのカツオ（巡航速度）で、抗力の割合は、　
+-魚体と各鰭の摩擦抵抗　37%/圧力抵抗 16% の合計53%
+-誘導抵抗　30%
+-鰓抵抗 17%
+
+誘導抵抗は30%（推力の反対向きに働く力）がありますが、水面付近で尾鰭の運動であれば、
+誘導抵抗が発生する側は水ではなく空気が入り込んでいるはずなのでどれくらい下がるんだろう
+
 
 ### トビハゼ、マッドスキッパー群の分布、種の分化
 

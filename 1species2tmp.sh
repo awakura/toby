@@ -47,12 +47,15 @@ echo $? [by-passing] log.md
 
 
 
-echo [--------not on sitemap and google ------]
+echo [--------not on google ------]
 pandoc -s -c github.css -o daily_log.html daily_log.md 
 echo $? [not on sitemap] daily_log.md
 
 pandoc -s -c github.css -o funny_log.html funny_log.md 
 echo $? [not on sitemap] funny_log.md
+
+
+echo [--------- not sitemap.txt --------------]
 
 
 

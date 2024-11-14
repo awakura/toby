@@ -71,12 +71,12 @@ Mudskipper glossary for dummies
 Acanthomorpha　Acanthopterygii	
 Berycimorphaceae	
 Beryciformes (alfonsinos; whalefishes) 
-
 Trachichthyiformes (pinecone fishes; slimeheads) 
 
 Percomorpha
 K-T境界後、6,600万年後から爆発的に種類を増やした
 
+[条鰭類（じょうきるい）Wiki ](https://ja.wikipedia.org/wiki/%E6%9D%A1%E9%B0%AD%E9%A1%9E)
 
 
 

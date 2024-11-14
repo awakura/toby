@@ -30,7 +30,6 @@ ___
 
 多様化していたが、顕在のタイミングがカンブリア爆発だった、という考え方が最近主流。
 
-
 <img src="https://www.brh.co.jp/_old/imgs/katari/shinka/17_zu05.gif">
 
 図5.カンブリア爆発と遺伝子多様化の時期	
@@ -42,5 +41,51 @@ ___
 （宮田　隆（2006）
 
 
+### 条鰭類（じょうきるい、Actinopterygii）の分岐年代など。
+
+<img src="https://en.wikipedia.org/wiki/Percomorpha#/media/File:Evolution_of_ray-finned_fish.png">
+
+Evolution of ray-finned fishes, Actinopterygii, from the Devonian to the present as a spindle diagram
+
+
+# 前生物スケール
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Tree_of_life_ja.svg">
+
+３系統説の系統樹
+
+
+
+# 地質年代スケールの図
+
+顕生代の生物多様化と大量絶滅
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Phanerozoic_Biodiversity_ja.svg">
+
+
+
+地質年代略号入り。白亜紀は、K-T境界のKと覚えますか、三条紀が三TriのTなので、その片割れと覚えれば。
+
+<img src="https://isabou.net/Convenience/tool/geology/index.1.GIF">
+
+
+地質時代区分と生物の進化
+
+<img src="https://finding-geo.info/basic/UbR0Rld3wXk3_rev.png">
+
+地質時代区分と年代値
+
+
+<img src="https://finding-geo.info/basic/geologic_timescale.png">
+
+
+
+[この地質年代と生物、地表の概説のページ](https://finding-geo.info/basic/geologic_time.html)
+
+が端的にまとまっていて、分かりやすいです。
+
+[地質時代のWikipedia](https://ja.wikipedia.org/wiki/%E5%9C%B0%E8%B3%AA%E6%99%82%E4%BB%A3)
+
+も控えめに言って最高です。
 
 

@@ -98,3 +98,15 @@ NHKのアニマルドック見てたらゾウの進化について
 
 
 
+### サボテンの進化
+
+サボテンは、歯の表面積を減らして水蒸気を失いにくいように進化。
+
+35Mya前に、木から針状の葉っぱが生えるように進化。
+10Mya前に、茎自体が葉緑素を持った形に進化。
+
+ <img src="https://github.com/awakura/toby/blob/main/img/tree/cactus.jpg?raw=true"  alt="サボテンの進化">
+
+
+
+

@@ -89,3 +89,12 @@ Evolution of ray-finned fishes, Actinopterygii, from the Devonian to the present
 も控えめに言って最高です。
 
 
+
+NHKのアニマルドック見てたらゾウの進化について
+寒冷化により水辺が減少乾燥した陸地へ（30Mya
+大型の肉食獣に食べられにくい大きい個体が生き残った
+
+
+
+
+

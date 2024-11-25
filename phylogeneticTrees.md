@@ -75,9 +75,7 @@ Evolution of ray-finned fishes, Actinopterygii, from the Devonian to the present
 
 地質時代区分と年代値
 
-
 <img src="https://finding-geo.info/basic/geologic_timescale.png">
-
 
 
 [この地質年代と生物、地表の概説のページ](https://finding-geo.info/basic/geologic_time.html)
@@ -89,14 +87,15 @@ Evolution of ray-finned fishes, Actinopterygii, from the Devonian to the present
 も控えめに言って最高です。
 
 
+### ゾウの分岐時期
+
 
 NHKのアニマルドック見てたらゾウの進化について
 寒冷化により水辺が減少乾燥した陸地へ（30Mya
 大型の肉食獣に食べられにくい大きい個体が生き残った
 
 
-
-### サボテンの進化
+### サボテンの分岐時期
 
 サボテンは、歯の表面積を減らして水蒸気を失いにくいように進化。
 

@@ -28,13 +28,27 @@ Five species of mudskippers can be found in Japan, but these five types of mudsk
 
 Great blue spotted mudskipper
 
+<img src="https://yoka.species.jp/wp-content/uploads/2023/10/OYK255-W02_080928_n112_NEF-1024x683.jpg" width="512">
+https://yoka.species.jp/wp-content/uploads/2023/10/OYK255-W03_080928_n086_NEF-1024x680.jpg" 
+
 ムツゴロウ (Mu-tsu-go-ro-u)
 
 In a Saga region local dialect, ムツ(Mu-tsu) means "Greasy" and ゴロウ means "Goby".
 
+[Boleophtalmus pectinirostris 3D Models](https://yoka.species.jp/archives/41)
+
+
+
+
 #### Periophtalmus modestus
 
-Shuttles mudskipper
+Shuttles mudskipper. 
+
+Small left one is P. Modestus. Right big one is Boleophtalmus pectinirostris.
+
+<img src=https://yoka.species.jp/wp-content/uploads/2023/10/OYK255-W03_080928_n086_NEF-1024x680.jpg"  width="512">
+
+
 
 トビハゼ (To-bi-ha-ze)
 

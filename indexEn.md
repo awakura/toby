@@ -70,6 +70,8 @@ Walking goby
 
 トカゲ means "Lizard" and ハゼ(Ha-ze) means "goby" in Japanese.
 
+<img src="https://lh3.googleusercontent.com/proxy/ckIZ4jXErU_fXTEFXyY0dG08DXbTBrIuBMTQ7Nz8s3r3qirqtEDuipH-WgCPhDGqvAuIATqBT9WiP-wbwpEkP6SnNzpMcVlyE9N4pt_BYeBnsDe34oNC0C9jtahEVvqRHmiWicCg9B1lwAP0fI54RZtQZw">
+
 
 #### References
 

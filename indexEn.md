@@ -12,17 +12,26 @@ header-includes:
 
 ___
 
-
 ## FAQ
 
-### How to say "mudskipper" in Japanese ?
+### Mudskippers in Japan
 
-Actually it's a tough question.
-Mudskipper is a collective term, but Japanese has not obvious collective term for mudskippers.
-Most suitable Japanese term for mudskippers is とびはぜ (To-bi-ha-ze) , but this "とびはぜ(Tobihaze)" often means in a narrow sense, refers to P. modestus.
+Japan is often said to have four species of mudskippers naturally shown below.
 
-Five species of mudskippers can be found in Japan, but these five types of mudskippers are referred to by their own individual names and , not as a collective term.
+1. Great blue spotted mudskipper (Boleophtalmus pectinirostris)  IB/EN
+1. Shuttles hoppfish (Periophtalmus modestus) NT
+1. Silverlined mudskipper / Barred mudskipper (Periophtalmus argentilineatus)　
+1. Walking goby (Scartelaos histophorus) IA/CR
 
+### Mudskipper-like fishes in Japan
+
+And, mudskipper like fishes out of water for three species.
+
+1. Apocryptodon punctatus (No english name) Oxudercinae, Gobiidae, Perciformes II/VU
+1. Leaping blenny (Alticus saliens) Blenniidae,	Blenniiformes
+1. Japanese leaping blenny (Aliticus Orientalis) Blenniidae, Blenniiformes
+
+Reference : "Fishes of the World 5th Edition (2016)" and "Fish Emerging from Water" Takita, Ishimatsu(2015)
 
 #### Boleophtalmus pectinirostris
 
@@ -38,16 +47,13 @@ In a Saga region local dialect, ムツ(Mu-tsu) means "Greasy" and ゴロウ mean
 [Boleophtalmus pectinirostris 3D Models](https://yoka.species.jp/archives/41)
 
 
-
-
 #### Periophtalmus modestus
 
-Shuttles mudskipper. 
+Shuttles mudskipper / Shuttles hoppfish
 
 Small left one is P. Modestus. Right big one is Boleophtalmus pectinirostris.
 
 <img src=https://yoka.species.jp/wp-content/uploads/2023/10/OYK255-W03_080928_n086_NEF-1024x680.jpg"  width="512">
-
 
 
 トビハゼ (To-bi-ha-ze)
@@ -71,6 +77,16 @@ Walking goby
 トカゲ means "Lizard" and ハゼ(Ha-ze) means "goby" in Japanese.
 
 <img src="https://lh3.googleusercontent.com/proxy/ckIZ4jXErU_fXTEFXyY0dG08DXbTBrIuBMTQ7Nz8s3r3qirqtEDuipH-WgCPhDGqvAuIATqBT9WiP-wbwpEkP6SnNzpMcVlyE9N4pt_BYeBnsDe34oNC0C9jtahEVvqRHmiWicCg9B1lwAP0fI54RZtQZw">
+
+
+### How to say "mudskipper" in Japanese ?
+
+Actually it's a tough question.
+Mudskipper is a collective term, but Japanese has not obvious collective term for mudskippers.
+Most suitable Japanese term for mudskippers is とびはぜ (To-bi-ha-ze) , but this "とびはぜ(Tobihaze)" often means in a narrow sense, refers to P. modestus.
+
+Five species of mudskippers can be found in Japan, but these five types of mudskippers are referred to by their own individual names and , not as a collective term.
+
 
 
 #### References

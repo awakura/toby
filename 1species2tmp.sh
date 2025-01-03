@@ -58,6 +58,14 @@ echo $? [not on sitemap] funny_log.md
 pandoc -s -c github.css -o mudflat.html mudflat.md
 echo $? [not on sitemap] mudflat.md
 
+pandoc -s -c github.css -o marksheet.html marksheet.md
+echo $? [not on sitemap] marksheet.md
+
+pandoc -s -c github.css -o nj.html nj.md
+echo $? [not on sitemap] marksheet.md
+
+
+
 
 echo [--------- not sitemap.txt --------------]
 

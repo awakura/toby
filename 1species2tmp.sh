@@ -62,7 +62,7 @@ pandoc -s -c github.css -o marksheet.html marksheet.md
 echo $? [not on sitemap] marksheet.md
 
 pandoc -s -c github.css -o nj.html nj.md
-echo $? [not on sitemap] marksheet.md
+echo $? [not on sitemap] nj.md 分子系統学、進化系統樹　超初心者向けまとめ
 
 
 

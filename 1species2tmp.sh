@@ -39,6 +39,8 @@ echo indexEn
 pandoc -s -c github.css -o phylogeneticTrees.html phylogeneticTrees.md
 echo $? phylogeneticTrees
 
+pandoc -s -c github.css -o nj.html nj.md
+echo $? [on sitemap] nj.md 分子系統学、進化系統樹　超初心者向けまとめ
 
 
 echo [--------by-pass--------------]
@@ -61,9 +63,8 @@ echo $? [not on sitemap] mudflat.md
 pandoc -s -c github.css -o marksheet.html marksheet.md
 echo $? [not on sitemap] marksheet.md
 
-pandoc -s -c github.css -o nj.html nj.md
-echo $? [not on sitemap] nj.md 分子系統学、進化系統樹　超初心者向けまとめ
-
+pandoc -s -c github.css -o mudskipperRelatedItems.html mudskipperRelatedItems.md
+echo $? [not on sitemap] mudskipper goods, books about 
 
 
 

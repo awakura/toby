@@ -47,6 +47,13 @@ ___
 
 Evolution of ray-finned fishes, Actinopterygii, from the Devonian to the present as a spindle diagram
 
+#### 条鰭類（じょうきるい、Actinopterygii）の分岐年代。
+
+淡水魚となる骨鰾類の分岐年代は240−270 Mya
+
+[2011年の論文によると](https://www.aori.u-tokyo.ac.jp/research/news/2011/files/Otophysi20110722.pdf)
+
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/awaq/20250122/20250122225122.png">
 
 # 前生物スケール
 

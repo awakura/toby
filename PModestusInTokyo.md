@@ -132,6 +132,37 @@ ___
 ## 尻尾を振るトビハゼ
 
 
+## トビハゼの流体力学的な舌
+
+トビハゼ含め魚類には舌がありませんが、
+そのかわり流体力学的な舌を持っているとする研究があります。
+
+通常の魚は、海水と共に餌を吸い込む「吸引捕食」をするのですが
+トビハゼは陸上にいるので一工夫せねばなりません。
+そこでトビハゼは、口の中に水を溜めておいて、それを一旦吐き出し、さらにそれを再度吸い込むことで、その水流に乗せて獲物捕まえたり、口内で獲物を移動（飲み込んだり、噛み潰しやすい位置に移動）させたりします。
+また、一旦水を泥干潟上に吐き出して、それを吸い込んで表面の餌をとらえます。
+リンク先のNatureには、ハイスピードX線カメラで撮影した動画がありますのでぜひご覧になってください。
+
+[Fish uses 'water tongue' to grab prey on land (Krijn Michel 2015)](https://www.nature.com/articles/nature.2015.17123)
+
+[「水の舌」で獲物を捕らえるトビハゼ](https://www.natureasia.com/ja-jp/ndigest/v12/n6/%E3%80%8C%E6%B0%B4%E3%81%AE%E8%88%8C%E3%80%8D%E3%81%A7%E7%8D%B2%E7%89%A9%E3%82%92%E6%8D%95%E3%82%89%E3%81%88%E3%82%8B%E3%83%88%E3%83%93%E3%83%8F%E3%82%BC/63792)
+
+## トビハゼのジャンプ
+
+トビハゼは主に水面などで水切りジャンプする場合と、陸地でジャンプする場合で、全くジャンプの仕方が異なります。
+
+いわゆる C-start と呼ばれるジャンプです。
+
+
+沈降は遅く陸地にいる所以でしょう。
+
+    <div>
+    <img src="https://github.com/awakura/toby/blob/main/img/top-toby-on-green.jpg?raw=true" width="250" height="231" alt="藻の上にいるトビハゼ">
+      <iframe src="https://www.youtube.com/embed/6GLXjNBMkCI"></iframe>
+      <iframe src="https://www.youtube.com/embed/73UL6TRqySs"></iframe>
+    </div>
+
+
 
 
 

@@ -18,10 +18,16 @@ ___
 
 |和名|英名|
 |----|----|
+|条鰭綱|Actinopterygii|
+|スズキ目|Perciformes|
 |ハゼ科|Gobiidae|
 |オグジュデルシネー亜科|Oxudercinae|
 |ムツゴロウ属|Boleophtalmus ボレオフタルムス|
 |トビハゼ属|Periophtalmus ペリオフタルムス|
+
+
+Perciformesは、perch-likeの意味。perchはメバル属だったり、ニシスズキだったりする。
+Gobyはハゼですね。
 
 # 主だった種の対照表  concise table for common mudskipper species
 

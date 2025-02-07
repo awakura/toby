@@ -10,6 +10,11 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
+
 ___
 
 
@@ -134,5 +139,7 @@ P.4
 
 改修のため、数ヶ月間、トビハゼを飼育施設に移動させて、工事改修後戻している。
 
+---
 
+@2355toby
 

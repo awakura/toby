@@ -10,6 +10,10 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
 ___
 
  English-Japanese-Scientific name references for common mudskippers
@@ -127,6 +131,11 @@ https://www.asahi.com/articles/ASN562STYN55ULBJ00S.html
 石松惇名誉教授らは、メコン川を河口から約200キロ上流のカンボジア国境付近まで調査。水の外でも暮らせるトビハゼの仲間が、河口を離れるといなくなるのに、ある一種（Periophthalmodon　septemradiatus）だけは150キロほど上流まで分布していた。
 
 [ヨダレカケ Andamia tetradactylus](https://en.wikipedia.org/wiki/Andamia_tetradactylus)
+
+
+---
+
+@2355toby
 
 
 

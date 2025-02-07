@@ -14,6 +14,7 @@ header-includes:
 
 [2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
 
+
 ___
 
 # トビハゼ関係グッズ
@@ -47,11 +48,29 @@ Tシャツ、ノート、アクリルスタンドもあり。　JPY ¥900-3,900
 
 ## 本
 
-### トビハゼ所長奮戦記 新・川物語
+### 物語
 
+#### トビハゼ所長奮戦記 新・川物語
 
+発行/河川情報センター　1994年3月
 
+### 
 
+#### 水から出た魚たち　ムツゴロウとトビハゼの挑戦
+
+海游舎
+
+田北先生の本で知ったんやけど、「遊ぶ」は道を意味するシンニョウがついてるけど、サンズイついてる海で遊ぶ・泳ぐを意味する「游ぶ」もあるんですね。
+
+#### Fishes Out of Water
+
+Fishes Out of Water: Biology and Ecology of Mudskippers (CRC Marine Science)
+
+Zeehan Jaafar (編集), Edward O. Murdy (編集)
+
+#### Fishes of world (5th Edition)
+
+Nelson, Joseph S./Grande, Terry C./Wilson, Mark V. H.
 
 
 ---

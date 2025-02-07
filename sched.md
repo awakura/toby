@@ -10,6 +10,10 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
 ___
 
 # 東京湾でのトビハゼ関係スケジュール
@@ -20,4 +24,11 @@ ___
 
 [定例干潟の観察会 ２週間おき程度、多摩川](https://tamagawa-tobihaze.amebaownd.com/pages/3081652/page_201907191559)
 
+[キミもトビハゼ調査隊](https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2022/05/26/09_01.html)
+
+7月ごろ実施、6月申し込み
+
+---
+
+@2355toby
 

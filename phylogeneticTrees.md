@@ -10,6 +10,10 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
 ___
 
 # Phylogenetic Trees
@@ -113,5 +117,9 @@ NHKのアニマルドック見てたらゾウの進化について
  <img src="https://github.com/awakura/toby/blob/main/img/tree/cactus.jpg?raw=true"  alt="サボテンの進化">
 
 素敵すぎる。
+
+---
+
+@2355toby
 
 

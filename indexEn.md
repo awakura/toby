@@ -10,6 +10,10 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
 ___
 
 ## FAQ
@@ -95,4 +99,8 @@ Five species of mudskippers can be found in Japan, but these five types of mudsk
 
 [Mudskippers Multi Langage - Scientific name Reference](https://awakura.github.io/toby/species.html)
 
+
+---
+
+@2355toby
 

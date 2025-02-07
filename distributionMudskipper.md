@@ -10,6 +10,11 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
+
 ___
 
 # トビハゼ、Periophtalmus属の分化と分布地域の相関性　および不明点
@@ -169,6 +174,12 @@ https://youtube.com/clip/Ugkxcu7b87dCoCl_F4ORY58iiZbOfAjlsrc-?si=IoUqrIiEp5ZH-iz
 |トカゲハゼ属|トカゲハゼ         |Scartelaos histophorus|Walking goby|[fishbase](https://fishbase.mnhn.fr/summary/7487)|
 |タビラクチ属|タビラクチ 6.7cm   |Apocryptodon punctatus|-|[fishbase](https://www.fishbase.se/Summary/SpeciesSummary.php?id=55511&lang=japanese)|
 |シューダポクリプテス属|ホコハゼ  |Pseudapocryptes elongatus|-|[fishbase](https://www.fishbase.se/Summary/SpeciesSummary.php?id=8409&lang=japanese)|
+
+
+
+---
+
+@2355toby
 
 
 

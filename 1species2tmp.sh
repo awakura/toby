@@ -12,7 +12,6 @@
 # pandoc -s -c github.css -o species.html species.md
 # echo $?
 
-
 pandoc -s -c github.css -o speciesMain.html speciesMain.md 
 echo $?
 pandoc -s -c github.css -o links.html links.md
@@ -65,6 +64,9 @@ echo $? [not on sitemap] marksheet.md
 
 pandoc -s -c github.css -o mudskipperRelatedItems.html mudskipperRelatedItems.md
 echo $? [not on sitemap] mudskipper goods, books about 
+
+pandoc -s -c github.css -o storiesMudskipper.html storiesMudskipper.md
+echo $? [not on idex.html not on sitemap] mudskipper stories and hero
 
 
 

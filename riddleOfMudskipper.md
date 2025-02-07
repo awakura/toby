@@ -10,6 +10,10 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
 ___
 
 # 魚なのになぜトビハゼは陸上にいるのか？　トビハゼの素朴な疑問集。
@@ -321,5 +325,9 @@ We are coping with this climate change through our environmental-concious produc
 ジュゴンなど　アフリカ獣類海牛目は66Mya　以降
 北方獣類  鯨偶蹄目は　66Mya以前、鯨類は55Mya
 
+
+---
+
+@2355toby
 
 

@@ -10,6 +10,10 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
 ___
 
 # Mudskipper useful webresources
@@ -224,5 +228,8 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 （Schwab、2003）
 
 
+---
+
+@2355toby
 
 

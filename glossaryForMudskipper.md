@@ -10,6 +10,10 @@ header-includes:
 
 [Return to top](https://awakura.github.io/)
 
+[Twitter : homemaku](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
 ___
 
 
@@ -100,3 +104,8 @@ K-T境界後、6,600万年後から爆発的に種類を増やした
 †　天草の渚（浅海性ベントスの生態学）§１砂質干潟のベントス群集　玉木昭夫
  ハルマンスナモグリを中心に、三十年にわたる個体数の増減など、生物間のバランスなどを研究したもの。
 一旦は絶滅したかと思われる群が、捕食者のさらに上位の捕食圧などにより減ると、数十年経って数を増やす例などが紹介されている。
+
+
+---
+
+@2355toby

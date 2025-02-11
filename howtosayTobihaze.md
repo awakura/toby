@@ -25,16 +25,19 @@ mudskipperは正しくない。下の図を見てほしい。mudskipperはトビ
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/awaq/20250211/20250211230431.png">
 </div>
 
-ただ、ほとんどの欧米人にとって、mudskipperは近くに住んでおらず親しみのある種ではない。
-まずはmudskipperの説明から入ることになるので、欧米人と話すときはとりあえずmudskipperで良い。
-そもそもmudskipper自体も知らない。ことが多い。
-mudflatとlagoonの違いから説明することになる。
+ただほとんどの欧米人にとって、mudskipperは近くに住んでおらず親しみのある種ではない。
+まずはmudskipperの説明から入ることになるので、欧米人と話すときはとりあえずmudskipperで良いかもしれない。
+欧米人は、そもそもmudskipper自体も知らないことが多い。
+干潟といっても、泥干潟と言うものがあって・・・と、mudflatとlagoonの違いから説明することになる。
 へー、そんな魚いるんだ、と言うコメントを大体いただく。
+アジア人同士で話すと、「あー弾塗魚ね」とか「Ikan Tembakulね」と返ってくる。
+諸外国人が「すばしっこくて全然捕まえられない」というがそれは本当である。なぜか、日本のトビハゼだけのんびりしていて、
+簡単に捕まる。
+
 
 # 日本語の「トビハゼ」は正確に言うなら shuttles mudskipper
 
-トビハゼは他にも、shuttles hoppfishという呼び方もあります。hoppfishだけで通じます。学術系の世界でよく使われますが、
-他でこの単語見たことないですね。
+トビハゼは他にも、shuttles hoppfishという呼び方もあります。というか、hoppfishだけで通じます。このshuttles hoppfishと言う呼び名は学術系の世界でよく使われますが、学名はちゃんと別にあって Periophtalmus modestus と呼びます。
 
 <div style="width: 50%;">
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/awaq/20250211/20250211231250.png">
@@ -44,7 +47,11 @@ mudflatとlagoonの違いから説明することになる。
 ミナミトビハゼの英語はSilverlined mudskipperです。
 
 
-その他、各国語
+ちなみに、トビハゼの各国語対照表・和名学名対照表というのを作りました。よかったらご覧になってください。
+
+[トビハゼの各国語対照表・和名学名対照表](https://awakura.github.io/toby/speciesMain.html)
+
+
 
 
 ---

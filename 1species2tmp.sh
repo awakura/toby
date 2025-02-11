@@ -68,6 +68,9 @@ echo $? [not on sitemap] mudskipper goods, books about
 pandoc -s -c github.css -o storiesMudskipper.html storiesMudskipper.md
 echo $? [not on idex.html not on sitemap] mudskipper stories and hero
 
+pandoc -s -c github.css -o howtosayTobihaze.html howtosayTobihaze.md
+echo $? [not on idex.html not on sitemap] 
+
 
 
 echo [--------- not sitemap.txt --------------]

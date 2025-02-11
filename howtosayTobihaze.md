@@ -2,7 +2,7 @@
 title: トビハゼは英語でなんと言うのか？ムツゴロウは英語でなんと言うのか？
 header-includes:
 	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,ムツゴロウ,P Modestus,hoppfish,英語" />
-	<meta name="description" content="トビハゼを英語でなんというか。意外とややこしい。" />
+	<meta name="description" content="トビハゼを英語でなんというか。実は総称表現が英語と日本語で異なるため難しい、トビハゼの英語表現" />
 	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />

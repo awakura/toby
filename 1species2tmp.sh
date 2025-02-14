@@ -43,18 +43,15 @@ echo $? [on sitemap] nj.md 分子系統学、進化系統樹　超初心者向�
 
 
 echo [--------by-pass--------------]
-#pandoc -s -c github.css -o log.html log.md 
+pandoc -s -c github.css -o log.html log.md 
 echo $? [by-passing] log.md
 
 
 
 echo [--------not on google ------]
-pandoc -s -c github.css -o daily_log.html daily_log.md 
-echo $? [not on sitemap] daily_log.md
 
 pandoc -s -c github.css -o funny_log.html funny_log.md 
 echo $? [not on sitemap] funny_log.md
-
 
 pandoc -s -c github.css -o mudflat.html mudflat.md
 echo $? [not on sitemap] mudflat.md

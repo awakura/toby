@@ -41,7 +41,7 @@ Gobyはハゼですね。
 ||ムツゴロウ  |Boleophtalmus pectinirostris|Great blue spotted mudskipper|[wiki](https://en.wikipedia.org/wiki/Boleophthalmus_pectinirostris)|
 |トビハゼ属|ミナミトビハゼ     |Periophtalmus argentilineatus|barred mudskipper/silverlined mudskipper|[wiki](https://en.wikipedia.org/wiki/Barred_mudskipper)|
 ||バルバルス 5y 16cm	    |Periophtalmus barbarus|Atlantic mudskipper|[wiki](https://en.wikipedia.org/wiki/Atlantic_mudskipper)|
-||トビハゼ  2y 7cm-10cm        |Periophtalmus modestus|Shuttles hoppfish,shuttles mudskipper|[wiki](https://en.wikipedia.org/wiki/Shuttles_hoppfish)|
+||トビハゼ  2y 7cm-10cm        |Periophtalmus modestus|Shuttles hoppfish,shuttles mudskipper,hoppfish|[wiki](https://en.wikipedia.org/wiki/Shuttles_hoppfish)|
 |ペリオフタルモドン属|シュロセリ 27cm |Periophthalmodon schlosseri|giant mudskipper|[wiki](https://en.wikipedia.org/wiki/Giant_mudskipper)|
 |トカゲハゼ属|トカゲハゼ         |Scartelaos histophorus|Walking goby|[fishbase](https://fishbase.mnhn.fr/summary/7487)|
 |タビラクチ属|タビラクチ 6.7cm   |Apocryptodon punctatus|-|[fishbase](https://www.fishbase.se/Summary/SpeciesSummary.php?id=55511&lang=japanese)|
@@ -72,9 +72,8 @@ Gobyはハゼですね。
 |Thai	|		|ตีน กระจัง พรวด	|		|	|		|
 |Tieng Viet|-		|Cá thòi lòi vạch ngang trắng|	|	|Cá nác hoa	|
 |Bahasa Malaysia|	|   	     	|	    	|	|		|
-|Bahasa Indonesia|	|   	     	|	    	|	|Tembakul totol biru|
+|Bahasa Indonesia|	|   	     	|Ikan Tembakul  |  	|Tembakul totol biru|
 |Svenska|Kantonesisk slamkrypare|	|		|	|		|
-
 
 
 # 総称の対照表　collective name for mudskipper-like fishes

@@ -72,7 +72,6 @@ pandoc -s -c github.css -o howtosayTobihaze.html howtosayTobihaze.md
 echo $? [not on idex.html not on sitemap] 
 
 
-
 echo [--------- not sitemap.txt --------------]
 
 

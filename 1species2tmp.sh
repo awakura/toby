@@ -66,7 +66,19 @@ pandoc -s -c github.css -o storiesMudskipper.html storiesMudskipper.md
 echo $? [not on idex.html not on sitemap] mudskipper stories and hero
 
 pandoc -s -c github.css -o howtosayTobihaze.html howtosayTobihaze.md
-echo $? [not on idex.html not on sitemap] 
+echo $? [not on idex.html not on sitemap] howtosay
+
+pandoc -s -c github.css -o riddleOfMudskipper2-uncoverHumanMysteries.html riddleOfMudskipper2-uncoverHumanMysteries.md
+echo $? [not on sitemap] riddle2
+
+pandoc -s -c github.css -o riddleOfMudskipper3-jumpSpeed.html riddleOfMudskipper3-jumpSpeed.md
+echo $? [not on idex.html not on sitemap]  riddle3
+
+pandoc -s -c github.css -o frontierAnimalia.html frontierAnimalia.md
+echo $? [not on idex.html not on sitemap] frontier
+
+echo riddleOfMudskipperMada.md
+
 
 
 echo [--------- not sitemap.txt --------------]

@@ -1,8 +1,8 @@
 ---
-title: Toby the mudskipper, Mudskipper in Japan English information
+title: Toby the mudskipper, Mudskipper in Japan English information, How do we say mudskipper in Japanese
 header-includes:
 	<meta name="keywords" content="Mudskipper,Toby the mudskipper,P Modestus,Japanese,2355Toby" />
-	<meta name="description" content="Mudskipper researcher in Japan" />
+	<meta name="description" content="How do we say mudskipper in Japanese?" />
 	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
@@ -15,6 +15,10 @@ header-includes:
 [2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
 
 ___
+
+# How do we say mudskipper in Japanese
+
+
 
 ## FAQ
 

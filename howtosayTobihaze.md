@@ -1,12 +1,14 @@
 ---
-title: トビハゼは英語でなんと言うのか？ムツゴロウは英語でなんと言うのか？
+title: トビハゼやムツゴロウは英語でなんと言うのか？
 header-includes:
 	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,ムツゴロウ,P Modestus,hoppfish,英語" />
 	<meta name="description" content="トビハゼを英語でなんというか。実は総称表現が英語と日本語で異なるため難しい、トビハゼの英語表現" />
 	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
-    <script type="application/ld+json">
+---
+
+<script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "NewsArticle",
@@ -38,25 +40,25 @@ ___
 
 # 実は「トビハゼ」の英語表現は「mudskipper」そのものではない。
 
-一般的に「トビハゼ」の英語表現は「mudskipper」と言われることが多いが、ムツゴロウとトビハゼをいつも使い分けている日本人にとっては、
-実は「mudskipper」は正しくない。下の図を見てほしい。mudskipperはトビハゼもムツゴロウも含んでいる。
+Toby the mudskipperを名乗っておいてなんですが、実は「トビハゼ」の正しい英語表現は「mudskipper」そのものではない。あながち間違いとは言えないけど、mudskipperはムツゴロウも含めたざっくりとした言い方です。なんというか「泥の上に住んで、ぴょんぴょん跳ねている魚」という感じです。
+
+ムツゴロウとトビハゼをいつも使い分けている日本人にとっては、実は「mudskipper」は正しくない。下の図を見てほしい。mudskipperはトビハゼもムツゴロウも含んでいます。
 
 <div style="width: 50%;">
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/awaq/20250211/20250211230431.png">
 </div>
 
-ただほとんどの西洋人にとって、mudskipperは近くに住んでおらず親しみのある種ではない。
-なぜか南北アメリカ大陸にもmudskipperは住んでいない。
-その程度なので、とりあえずmudskipperと言っておけば良いのかもしれない。
+ただほとんどの西洋人にとって、mudskipperは近くに住んでおらず親しみのある種ではないのです。
+なぜか南北アメリカ大陸にもmudskipperは住んでませんし。まあなので、逆にmudskipperと言っておけば良いのかもしれないです。
 
-西洋人は、そもそもmudskipper自体も知らないことが多い。
-マングローブの汽水林はわかってもらえるが、泥干潟は知らなかったりする。
-mudflatとlagoonの違いを説明した頃には苦手な英語の語彙は尽きている。
+西洋人は、そもそもmudskipper自体も知らないことが多いとか、
+マングローブの汽水林はわかってもらえるが、泥干潟は知らないとか色々ありますので、
+話題には事欠かないかもしれないですね。
 
 それに対し、アジア人同士で話すと「あー弾塗魚ね」とか「あー、Ikan Tembakulね」と返ってくる。
-諸外国人が「すばしっこくて全然捕まえられない」というがそれは本当である。
-なぜか、日本のトビハゼだけのんびりしていて、網で簡単に捕まる。
-がんばれトビハゼ。
+諸外国人が「すばしっこくて全然捕まえられない」というがそれは本当。
+なぜか、日本のトビハゼだけのんびりしていて、割と網で簡単に捕まる。
+なんでだトビハゼ。
 
 
 # 日本語の「トビハゼ」も総称の場合とある特定の種を指すことがある。

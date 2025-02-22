@@ -80,6 +80,10 @@ echo $? [not on idex.html not on sitemap] frontier
 echo riddleOfMudskipperMada.md
 
 
+ls *md > ls.md
+echo $? [ls *md]
+ls *html > html.md
+echo $? [ls *html]
 
 echo [--------- not sitemap.txt --------------]
 

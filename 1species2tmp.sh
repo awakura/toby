@@ -80,8 +80,17 @@ echo $? [not on idex.html not on sitemap] frontier
 echo riddleOfMudskipperMada.md
 
 
+rm lsold.md
+cp -ip ls.md lsold.md
 ls *md > ls.md
 echo $? [ls *md]
+
+diff ls.md lsold.md > /dev/null
+if [ $? -eq 1 ]; then
+    date -R >> lsdiff.md
+    diff lsold.md ls.md >> lsdiff.md
+fi
+
 ls *html > html.md
 echo $? [ls *html]
 

@@ -15,17 +15,18 @@ header-includes:
 [2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
 
 ---
+このページ内のジャンプ、見出し
 
+<a href="#nobleJP">著名研究者（日本）</a> - 
+<a href="#nobleGl">著名研究者（海外）</a> <br>
+<a href="#paperJP">トビハゼ論文（日本）</a> - 
+<a href="#paperGl">トビハゼ論文（英語）</a> <br>
+
+---
 
 # トビハゼ研究者たち
 
 有名な研究者、現在の研究者、リンク　について。
-
-<a href="#nobleJP">著名研究者（日本）</a> <br>
-<a href="#nobleGl">著名研究者（海外）</a> <br>
-<a href="#paperJP">トビハゼ論文（日本）</a> <br>
-<a href="#paperGl">トビハゼ論文（英語）</a> <br>
-
 
 <h2 id="nobleJP"> 有名研究者（日本）</h2>
 

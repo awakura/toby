@@ -327,8 +327,6 @@ ___
 
 [研究者のページを少しまとめる。](https://awakura.github.io/toby/researchersPapers.html)
 
-
-
 ---
 
 @2355toby

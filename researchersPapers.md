@@ -18,7 +18,7 @@ header-includes:
 このページ内のジャンプ、見出し
 
 <a href="#nobleJP">著名研究者（日本）</a> - 
-<a href="#nobleGl">著名研究者（海外）</a> <br>
+<a href="#nobleGl">著名研究者（海外）</a> - 
 <a href="#paperJP">トビハゼ論文（日本）</a> - 
 <a href="#paperGl">トビハゼ論文（英語）</a> <br>
 
@@ -39,6 +39,8 @@ header-includes:
 言葉は平易でわかりやすいのに、トビハゼ類の学問的な特異性の基礎を網羅されている。
 
 トビハゼ属P. Takitaは、田北先生の業績を讃えて献名された。
+
+[P. takita / Takita's mudskipper](https://eol.org/pages/46576705)
 
 [日本の研究.com](https://research-er.jp/researchers/view/110175)
 
@@ -92,46 +94,26 @@ Edward O. Murdyと、Oxdercinae、特にPeriophthalmusを積極的に、大量�
 
 [Google Scholar Gianluca Polgar](https://scholar.google.com/citations?user=fIMIuSIAAAAJ&hl=ja)
 
+
+
 <h2 id="paperJP"> トビハゼ論文（日本語）</h2>
 
 <h2 id="paperGl"> トビハゼ論文（英語）</h2>
 
-P. argentilineatus  Barred / Silverlined mudskipper   (Valenciennes,1837 - ミナミトビハゼ[27
-P. barbarus (Linnaeus,1766) - 西アフリカ   Atrantic mudskipper
-[Atrantic mudskipper](https://uk.inaturalist.org/taxa/67836-Periophthalmus-barbarus)
-
-
-P. chrysospilos Bleeker,1852 - 東インド洋
-P. darwini Larson et Takita,2004 - オーストラリア北部
-Darwin's mudskipper
-
-[Darwin's mudskipper](https://uk.inaturalist.org/taxa/530080-Periophthalmus-darwini)
-
-P. gracilis Eggert,1935 - 東南アジア
-
-[P. gracillis / Slender mudskipper / 5cm](https://fishesofaustralia.net.au/home/species/2257)
-https://uk.inaturalist.org/taxa/461060-Periophthalmus-gracilis
-
-P.Kaolo Rectotype ?
-
-https://uk.inaturalist.org/taxa/423841-Periophthalmus-magnuspinnatus
-P. magnuspinnatus Lee, Choi et Ryu,1995 - 朝鮮半島
-
-[P. takita / Takita's mudskipper](https://eol.org/pages/46576705)
-
-
+### 種の区分けに関するもの
 
 P. Kaloloは、　P. argentilineatusのレクトタイプの模様。
 [論文](https://www.researchgate.net/figure/Results-of-the-ML-analyses-of-the-different-P-argentilineatus-and-P-kalolo-clades-using_fig2_260042765)
 
+### 新種
 
-https://www.asahi.com/articles/ASN562STYN55ULBJ00S.html
+#### 淡水性のトビハゼ記事　
+
+[淡水性のトビハゼ記事　朝日新聞](https://www.asahi.com/articles/ASN562STYN55ULBJ00S.html)
+
 石松惇名誉教授らは、メコン川を河口から約200キロ上流のカンボジア国境付近まで調査。水の外でも暮らせるトビハゼの仲間が、河口を離れるといなくなるのに、ある一種（Periophthalmodon　septemradiatus）だけは150キロほど上流まで分布していた。
 
-
-
 ---
-
 
 @2355toby
 

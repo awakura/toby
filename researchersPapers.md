@@ -1,34 +1,79 @@
+---
+title: トビハゼ関係研究者と著名論文
+header-includes:
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Papers,Idetify species" />
+	<meta name="description" content="トビハゼの種同定方法リンク、論文のリンクなど" />
+	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
+	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
+	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
+---
+
+[Return to top](https://awakura.github.io/)
+
+[Twitter : hoppfish](https://x.com/homemaku)
+
+[2355toby トビハゼ「トビー」のほぼ毎日更新](https://www.youtube.com/channel/UCFq06QurrYT58m7wzqy1MZQ)
+
+---
+
+
 # トビハゼ研究者たち
 
+有名な研究者、現在の研究者、リンク　について
 
-[日本の研究.com ムツゴロウ類]()
 
-田北徹教授　Prof. TAKITA Toru
 
+<h2 id="nobleJP"> 有名研究者（日本）</h2>
+
+### 田北徹 TAKITA Toru
 
 長崎大学名誉教授。１９６３年九州大学大学院農学研究科修士課程修了、農学博士。２００２年まで長崎大学水産学部教授
-長崎大学中心に研究されていた。
-没
+長崎大学中心に研究されていた。２０１４年没。
+
+石松教授との共著「水から出た魚たち」は、トビハゼ・ムツゴロウ初学者の日本語バイブル。
+言葉は平易でわかりやすいのに、トビハゼ類の学問的な特異性の基礎を網羅されている。
+
+トビハゼ属P. Takitaは、田北先生の業績を讃えて献名された。
 
 [日本の研究.com](https://research-er.jp/researchers/view/110175)
+
 [KAKEN DB](https://nrid.nii.ac.jp/ja/nrid/1000030039721/)
 
 有明海の生物多様性に科学者として強い懸念を示されていた。
 
 (有明漁民ネット)[https://ariake-gyomin.net/top/file/101224takita.pdf]
 
-石松教授との共著「水から出た魚たち」は、トビハゼ・ムツゴロウ初学者のバイブル。
-言葉は平易でわかりやすいのに、トビハゼ類の学問的な特異性の基礎を網羅されている。
-
-
-
-石松惇教授　Prof. ISHIMATSU Atshushi
+### 石松惇 ISHIMATSU Atshushi
 
 田北徹さんの後継者。
+
 [KAKEN DB](https://nrid.nii.ac.jp/ja/nrid/1000000184565/)
 
 石松教授との共著「水から出た魚たち」は、トビハゼ・ムツゴロウ初学者のバイブル。
 言葉は平易でわかりやすいのに、トビハゼ類の学問的な特異性の基礎を網羅されている。
+
+[石松研究室](https://mmurata0224.wixsite.com/ishimatsu)
+
+田北先生の直系、石松先生の研究室
+
+
+<h2 id="nobleGl"> 有名研究者（世界）</h2>
+
+### Edward O. Murdy
+
+大変混乱していた Oxudercinae を、名著Fishes out of waterにて整理された大家。
+この分類は、Fish of the world 4th Edtion以降に採用されている。
+
+### Gianluca Polgar
+
+イタリアの有名なMudskipper研究者。
+
+Gianluca Polgar先生のサイト。
+
+[mudskipper.it](http://www.mudskipper.it/Intro.html)
+
+[Google Scholar Gianluca Polgar](https://scholar.google.com/citations?user=fIMIuSIAAAAJ&hl=ja)
+
 
 
 
@@ -57,25 +102,6 @@ P. magnuspinnatus Lee, Choi et Ryu,1995 - 朝鮮半島
 [P. takita / Takita's mudskipper](https://eol.org/pages/46576705)
 
 
-|総称	|トビハゼ|（トビハゼおよびミナミトビハゼの事を指す）|
-|----|----|----|
-|英語名	|Mudskipper|オックスデルシナ科の総称|
-|繁体字	|彈塗魚	|	|
-|簡体字	|弹涂鱼	|	|
-|韓国語	|망둥어	|	|
-|アラビア語|گل‌خورک |	|
-|ロシア語|Стрибунові|	|
-|イタリア語|pesci saltafango|		|
-|スペイン語|peces del fango|		|
-|ドイツ語|Schlammspringerverwandte|		|
-|Thai	|ปลาตีน|	|
-|Tieng Viet|Cá thòi lòi||
-|Bahasa Malaysia|Ikan Belacak|		|
-|Bahasa Indonesia|Tembakul|		|
-|Hindi  |पंकलंघी	|	|
-|Svenska|Slamkrypare|	|
-
-
 
 P. Kaloloは、　P. argentilineatusのレクトタイプの模様。
 [論文](https://www.researchgate.net/figure/Results-of-the-ML-analyses-of-the-different-P-argentilineatus-and-P-kalolo-clades-using_fig2_260042765)
@@ -84,114 +110,11 @@ P. Kaloloは、　P. argentilineatusのレクトタイプの模様。
 https://www.asahi.com/articles/ASN562STYN55ULBJ00S.html
 石松惇名誉教授らは、メコン川を河口から約200キロ上流のカンボジア国境付近まで調査。水の外でも暮らせるトビハゼの仲間が、河口を離れるといなくなるのに、ある一種（Periophthalmodon　septemradiatus）だけは150キロほど上流まで分布していた。
 
-[ヨダレカケ Andamia tetradactylus](https://en.wikipedia.org/wiki/Andamia_tetradactylus)
-
-広島大学　清水 則雄先生が詳しい。
 
 
+---
 
 
-|学名|項目|日本語名称|
-|----|----|----|
-|10|+0.0026|999.741|
-|15|+0.0020|999.138|
-|20|+0.0010|998.233|
-|25|0|997.062|
-|30|-0.0015|995.654|
-
-気になっている
-
-
-
-## Easy mudlfat aquarium
-
-東京で、トビハゼなどの汽水の生き物を、安く楽しく飼う方法を研究？しています。
-東京はトビハゼの生息北限です。美しい干潟をいつまでも一緒に守りましょう。
-
-I am currently in the process of developing an accessible method for maintaining a blackish-water aquarium in Tokyo cost-effectively.  
-Tokyo, situated within a northern subtropical region, represents the northern range limit for mudskippers.  
-I aspire to perpetually preserve the invaluable tidal flats.　
-
-
-
-## 現在飼っている生き物
-魚類：　トビハゼ
-甲殻類：ヤドカリ、コメツキガニ
-貝類：アサリかホンビノスガイ、アラムシロ、カワアイ、クチキレツノガイ
-
-## 意図せず住んでいる生き物
-多足類：ゴカイ
-
-
-
-<details>
-<summary>生き物詳細はここをクリック</summary>
-トビハゼ　スズキ目ハゼ科トビハゼ属 Periophthalmus　P. modestus 
-ヤドカリ
-コメツキガニ　軟甲綱エビ目カニ下目スナガニ科
-カワアイ　腹足綱　キバウニニナ科
-アラムシロガイ　腹足綱　オリイレヨフバイ科
-クチキレツノガイ　堀足綱　クチギレツノガイ科
-アサリ　二枚貝綱　マルスダレガイ目マルスダレガイ科
-</details>
-
-## 現在かかった費用
-
-初期費用 6,300円
-水槽4,000円、ポンプ1,700円、塩分濃度測定600円
-あとは餌代が、２ヶ月に一度300円程度。
-
-
-## 飼い方
-
-### 水の入れ替え
-### 東京湾の塩分濃度
-
-#### 塩分濃度をはかるときに便利な、水の密度の表
-
-水の密度は、
-
-|温度|差分(対25度)|密度|
-|----|----|----|
-|10|+0.0026|999.741|
-|15|+0.0020|999.138|
-|20|+0.0010|998.233|
-|25|0|997.062|
-|30|-0.0015|995.654|
-
-[水の密度表詳細は、こちら](https://www.ryutai.co.jp/shiryou/liquid/water-mitsudo-1.htm|)
-ちなみに、水の粘度は
-・４度付近は２０度の約1.5倍　1.5 mPa/s
-・９５度では２０度の約0.3倍 0.30 mPa/s
-
-
-### 東京湾の栄養状況
-
-美しい水の方が長生きする説もありますが、海洋循環のモデルの１つPOMでは、懸濁態有機物質の重要性が説かれています。
-病気やえらへの微生物付着による窒息の話もありますが、
-トビハゼは皮膚呼吸ができるということや、
-・砂とか分解者が多くいそうなものを利用
-・貝類との共生
-することで、より自然に近い形で飼うことができると考えています。
-
-下記論文によると、マクロベントスへの栄養寄与率について、
-下流域では、河川POM、海洋POMの寄与率が底生微細藻類もはるかに大きく、四季通して５０−８０％の寄与率とされています。
-（陸上植物の死骸は10%程度）
-https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/264245/1/CoHHO_jp_03.pdf
-P.4
-
-
-### 推定する
-
-
-### 論文
-
-(江戸川放水路トビハゼ生息干潟の特性)[https://www.jstage.jst.go.jp/article/prooe1986/16/0/16_0_357/_pdf/-char/ja]
-
-明治４３年の大洪水を契機に江戸川放水路が作成された。
-
-改修のため、数ヶ月間、トビハゼを飼育施設に移動させて、工事改修後戻している。
-
-
+@2355toby
 
 

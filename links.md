@@ -124,13 +124,8 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 
 # 研究室
 
-[石松研究室](https://mmurata0224.wixsite.com/ishimatsu)
+[トビハゼ研究者・論文](https://awakura.github.io/toby/researchersPapers.html)のページにまとめました。
 
-田北先生の直系、石松先生の研究室
-
-[mudskipper.it](http://www.mudskipper.it/Intro.html)
-
-イタリアの有名なMudskipper研究者、Gianluca Polgar先生のサイト。
 
 ## 総論　トビハゼとは？系
 

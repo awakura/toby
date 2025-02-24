@@ -1,8 +1,8 @@
 ---
-title: トビハゼ関係研究者と著名論文
+title: トビハゼ関係研究者とトビハゼ関連論文
 header-includes:
-	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Papers,Idetify species" />
-	<meta name="description" content="トビハゼの種同定方法リンク、論文のリンクなど" />
+	<meta name="keywords" content="トビハゼ,2355toby,Toby the mudskipper,P Modestus,Papers,Researchers" />
+	<meta name="description" content="トビハゼ研究者、トビハゼ論文の紹介、関連リンクなど" />
 	<link rel="icon" href="https://awakura.github.io/toby64.png" sizes="64x64" type="image/png" /> 
 	<link rel="icon" href="https://awakura.github.io/toby32.png" sizes="32x32" type="image/png" />  
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
@@ -19,8 +19,12 @@ header-includes:
 
 # トビハゼ研究者たち
 
-有名な研究者、現在の研究者、リンク　について
+有名な研究者、現在の研究者、リンク　について。
 
+<a href="#nobleJP">著名研究者（日本）</a> <br>
+<a href="#nobleGl">著名研究者（海外）</a> <br>
+<a href="#paperJP">トビハゼ論文（日本）</a> <br>
+<a href="#paperGl">トビハゼ論文（英語）</a> <br>
 
 
 <h2 id="nobleJP"> 有名研究者（日本）</h2>
@@ -64,19 +68,32 @@ header-includes:
 大変混乱していた Oxudercinae を、名著Fishes out of waterにて整理された大家。
 この分類は、Fish of the world 4th Edtion以降に採用されている。
 
+### Edward O. Murdy
+
+[researcher Gate](https://www.researchgate.net/profile/Edward-Murdy)
+
+大変混乱していた Oxudercinae を、名著Fishes out of waterにて整理された大家。
+この分類は、Fish of the world 4th Edtion以降に採用されている。
+Geroge Washington University.
+
+### Zeehan Jaafar
+
+シンガポールの自然科学者。
+Edward O. Murdyと、Oxdercinae、特にPeriophthalmusを積極的に、大量に整理されておられます。
+
+[Google Scholar Zeehan Jaafar](https://scholar.google.co.jp/citations?user=rP3KMpAAAAAJ&hl=ja)
+
 ### Gianluca Polgar
 
-イタリアの有名なMudskipper研究者。
-
-Gianluca Polgar先生のサイト。
+イタリアのMudskipper研究者。
 
 [mudskipper.it](http://www.mudskipper.it/Intro.html)
 
 [Google Scholar Gianluca Polgar](https://scholar.google.com/citations?user=fIMIuSIAAAAJ&hl=ja)
 
+<h2 id="paperJP"> トビハゼ論文（日本語）</h2>
 
-
-
+<h2 id="paperGl"> トビハゼ論文（英語）</h2>
 
 P. argentilineatus  Barred / Silverlined mudskipper   (Valenciennes,1837 - ミナミトビハゼ[27
 P. barbarus (Linnaeus,1766) - 西アフリカ   Atrantic mudskipper

@@ -321,6 +321,13 @@ ___
 メストビーだったが大きくなったせいか、カニーに飛びつくようになってきた。
 
 
+ポリプテルス・エンドリケリーのひれの多さに、Oxudercinaeとしてシンパシーを感じる。
+
+[Wiki ポリプテルス・エンドリケリー](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%97%E3%83%86%E3%83%AB%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AA%E3%82%B1%E3%83%AA%E3%83%BC)
+
+[研究者のページを少しまとめる。](https://awakura.github.io/toby/researchersPapers.html)
+
+
 
 ---
 

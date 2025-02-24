@@ -68,11 +68,6 @@ header-includes:
 
 ### Edward O. Murdy
 
-大変混乱していた Oxudercinae を、名著Fishes out of waterにて整理された大家。
-この分類は、Fish of the world 4th Edtion以降に採用されている。
-
-### Edward O. Murdy
-
 [researcher Gate](https://www.researchgate.net/profile/Edward-Murdy)
 
 大変混乱していた Oxudercinae を、名著Fishes out of waterにて整理された大家。

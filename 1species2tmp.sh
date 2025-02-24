@@ -38,6 +38,11 @@ echo indexEn
 pandoc -s -c github.css -o phylogeneticTrees.html phylogeneticTrees.md
 echo $? phylogeneticTrees
 
+pandoc -s -c github.css -o researchersPapers.html researchersPapers.md
+echo $? researchersPapers
+
+
+
 pandoc -s -c github.css -o nj.html nj.md
 echo $? [on sitemap] nj.md 分子系統学、進化系統樹　超初心者向けまとめ
 

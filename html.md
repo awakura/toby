@@ -20,6 +20,7 @@ mudskipperRelatedItems.html
 nj.html
 pandoc.html
 phylogeneticTrees.html
+researchersPapers.html
 riddleOfMudskipper.html
 riddleOfMudskipper2-uncoverHumanMysteries.html
 riddleOfMudskipper3-jumpSpeed.html

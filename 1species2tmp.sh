@@ -107,6 +107,7 @@ target_file=/Users/zokusoukoyuzuru/Documents/GitHub/toby/ls-link.md
 read_file=/Users/zokusoukoyuzuru/Documents/GitHub/toby/ls.md
 
 echo "Markdown リンクを $target_file に出力します..."
+rm ls-link.md
 
 # ls でファイル一覧を取得し、Markdown リンクとして出力
 while read LINE
@@ -119,6 +120,12 @@ do
 done <$read_file
 
 echo "完了: $target_file にリンクが作成されました。"
+
+
+pandoc -s -c github.css -o ls-link.html ls-link.md
+echo $? [not on idex.html not on sitemap] ls-link
+
+echo riddleOfMudskipperMada.md
 
 
 

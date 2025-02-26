@@ -106,7 +106,6 @@ echo $? [ls *html]
 target_file=/Users/zokusoukoyuzuru/Documents/GitHub/toby/ls-link.md
 read_file=/Users/zokusoukoyuzuru/Documents/GitHub/toby/ls.md
 
-echo "# File Links" > "$target_file"
 echo "Markdown リンクを $target_file に出力します..."
 
 # ls でファイル一覧を取得し、Markdown リンクとして出力
@@ -115,7 +114,7 @@ do
     
     # ファイルのみ対象 (ディレクトリを除外したい場合 `-f` を追加)
     if [ -f "$LINE" ]; then
-        echo "[$LINE](https://awakura.github.io/toby/glossaryForMudskipper.html/$LINE)" >> "$target_file"
+        echo "[$LINE](https://awakura.github.io/toby/$LINE)" >> "$target_file"
     fi
 done <$read_file
 

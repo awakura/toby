@@ -11,6 +11,7 @@ html.md
 indexEn.md
 links.md
 log.md
+ls-link.md
 ls.md
 lsdiff.md
 lsold.md

@@ -8,28 +8,6 @@ header-includes:
 	<link rel="apple-touch-icon-precomposed" href="https://awakura.github.io/toby150.png" />
 ---
 
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "headline": "トビハゼは英語で何というのか。実は総称表現の範囲が英語と日本語で異なるため難しい、「トビハゼ」の英語表現",
-      "image": [
-        "https://example.com/photos/1x1/photo.jpg",
-        "https://example.com/photos/4x3/photo.jpg",
-        "https://example.com/photos/16x9/photo.jpg"
-       ],
-      "datePublished": "2025-02-12T08:00:00+08:00",
-      "dateModified":  "2025-02-12T09:20:00+08:00",
-      "author": [{
-          "@type": "Person",
-          "name": "2355toby",
-          "url": "https://www.youtube.com/@2355toby"
-        },
-      ]
-    }
-    </script>
----
-
 [Return to top](https://awakura.github.io/)
 
 [Twitter : homemaku](https://x.com/homemaku)

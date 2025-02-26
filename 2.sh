@@ -24,6 +24,7 @@ done <$read_file
 echo "完了: $target_file にリンクが作成されました。"
 
 
+
 echo [--------- not sitemap.txt --------------]
 
 

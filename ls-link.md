@@ -12,6 +12,7 @@
 [indexEn.md](https://awakura.github.io/toby/glossaryForMudskipper.html/indexEn.md)
 [links.md](https://awakura.github.io/toby/glossaryForMudskipper.html/links.md)
 [log.md](https://awakura.github.io/toby/glossaryForMudskipper.html/log.md)
+[ls-link.md](https://awakura.github.io/toby/glossaryForMudskipper.html/ls-link.md)
 [ls.md](https://awakura.github.io/toby/glossaryForMudskipper.html/ls.md)
 [lsdiff.md](https://awakura.github.io/toby/glossaryForMudskipper.html/lsdiff.md)
 [lsold.md](https://awakura.github.io/toby/glossaryForMudskipper.html/lsold.md)

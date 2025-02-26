@@ -8,6 +8,7 @@
 [glossaryForMudskipper.md](https://awakura.github.io/toby/glossaryForMudskipper.md) <br>
 [howtosayTobihaze.md](https://awakura.github.io/toby/howtosayTobihaze.md) <br>
 [html.md](https://awakura.github.io/toby/html.md) <br>
+[indexCn.md](https://awakura.github.io/toby/indexCn.md) <br>
 [indexEn.md](https://awakura.github.io/toby/indexEn.md) <br>
 [links.md](https://awakura.github.io/toby/links.md) <br>
 [log.md](https://awakura.github.io/toby/log.md) <br>
@@ -42,6 +43,7 @@
 [index.html](https://awakura.github.io/toby/index.html) <br>
 [index.md.html](https://awakura.github.io/toby/index.md.html) <br>
 [index2.html](https://awakura.github.io/toby/index2.html) <br>
+[indexCn.html](https://awakura.github.io/toby/indexCn.html) <br>
 [indexEn.html](https://awakura.github.io/toby/indexEn.html) <br>
 [links.html](https://awakura.github.io/toby/links.html) <br>
 [links.md.html](https://awakura.github.io/toby/links.md.html) <br>

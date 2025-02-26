@@ -8,6 +8,7 @@ funny_log.md
 glossaryForMudskipper.md
 howtosayTobihaze.md
 html.md
+indexCn.md
 indexEn.md
 links.md
 log.md

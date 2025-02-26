@@ -9,6 +9,7 @@ howtosayTobihaze.html
 index.html
 index.md.html
 index2.html
+indexCn.html
 indexEn.html
 links.html
 links.md.html

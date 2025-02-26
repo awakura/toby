@@ -35,6 +35,10 @@ echo $?
 pandoc -s -c github.css -o indexEn.html indexEn.md
 echo $?
 echo indexEn
+pandoc -s -c github.css -o indexCn.html indexCn.md
+echo $?
+echo indexEn
+
 pandoc -s -c github.css -o phylogeneticTrees.html phylogeneticTrees.md
 echo $? phylogeneticTrees
 

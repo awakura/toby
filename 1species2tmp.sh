@@ -112,14 +112,34 @@ rm ls-link.md
 # ls でファイル一覧を取得し、Markdown リンクとして出力
 while read LINE
 do
-    
+
     # ファイルのみ対象 (ディレクトリを除外したい場合 `-f` を追加)
     if [ -f "$LINE" ]; then
-        echo "[$LINE](https://awakura.github.io/toby/$LINE)" >> "$target_file"
+        echo "[$LINE](https://awakura.github.io/toby/$LINE) <br>" >> "$target_file"
     fi
 done <$read_file
 
 echo "完了: $target_file にリンクが作成されました。"
+
+
+
+# 続いてecho htlm.mdをls-linkに出力する。
+read_file=/Users/zokusoukoyuzuru/Documents/GitHub/toby/html.md
+
+echo "Markdown リンクを $target_file に出力します..."
+
+# ls でファイル一覧を取得し、Markdown リンクとして出力
+while read LINE
+do
+
+    # ファイルのみ対象 (ディレクトリを除外したい場合 `-f` を追加)
+    if [ -f "$LINE" ]; then
+        echo "[$LINE](https://awakura.github.io/toby/$LINE) <br>" >> "$target_file"
+    fi
+done <$read_file
+echo "完了: $target_file にリンクが作成されました。"
+
+
 
 
 pandoc -s -c github.css -o ls-link.html ls-link.md

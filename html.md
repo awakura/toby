@@ -14,6 +14,7 @@ links.html
 links.md.html
 log.html
 log.md.html
+ls-link.html
 marksheet.html
 mudflat.html
 mudskipperRelatedItems.html

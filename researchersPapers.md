@@ -100,7 +100,11 @@ Edward O. Murdyと、Oxdercinae、特にPeriophthalmusを積極的に、大量�
 
 ** 河川など **
 
-[北海道の河川及び地下水の水温](https://www.jstage.jst.go.jp/article/jgeography1889/62/1/62_1_13/_pdf/-char/ja)
+### [北海道の河川及び地下水の水温](https://www.jstage.jst.go.jp/article/jgeography1889/62/1/62_1_13/_pdf/-char/ja)
+
+北海道の河川、冬でも1度くらいはキープしているようです。
+深川町の深さ７.５mの浅い井戸、ミルク工場の井戸。毎月はじめ午前０８：３０の測定で、冬でも６.9度あり。外気は−4度
+（夏でも12.5度）
 
 
 

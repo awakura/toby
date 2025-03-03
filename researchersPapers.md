@@ -107,8 +107,13 @@ Edward O. Murdyと、Oxdercinae、特にPeriophthalmusを積極的に、大量�
 （夏でも12.5度）
 
 
+** 地中温度など（トビハゼが冬季住んでいる）
 
-###
+### [地中30～50cmの年平均地温と緯度・高度との関係*](https://www.jstage.jst.go.jp/article/jjfs1953/50/9/50_9_292/_pdf)
+
+これは
+
+
 
 ### 種の区分けに関するもの
 

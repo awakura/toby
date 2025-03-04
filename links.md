@@ -124,10 +124,17 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 [行徳保護区](https://suzugamo.seesaa.net/article/510963934.html?fbclid=IwY2xjawIwDRxleHRuA2FlbQIxMQABHXmuJq0wtIB12RpBuw2NwTnF9VRWpCI2gc4A5Z47esFEwRvMgo7zJvlwDg_aem_vqc3eV19G0iyeTK9hMzj1g)
 
 
-# 研究室
+# 研究室・組織
 
 [トビハゼ研究者・論文](https://awakura.github.io/toby/researchersPapers.html)のページにまとめました。
 
+---
+
+# トビハゼ関連の伝説、英雄について
+
+[トビハゼの物語、守護者](https://awakura.github.io/toby/storiesMudskipper.html)のページにまとめました。
+
+---
 
 ## 総論　トビハゼとは？系
 

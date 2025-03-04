@@ -18,6 +18,24 @@ ___
 
 # トビハゼの物語、守護者　
 
+
+## 谷津干潟の保存、ラムサール条約への登録
+
+千葉の複数の自然保護団体、および、象徴的存在である森田三郎さんによる谷津干潟の保存。
+
+みなさまの保護への情熱もさることながら、
+森田三郎(1945〜2021) 習志野市議、千葉県議
+の干潟への愛がすごい。この絵を見て欲しい。
+
+<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=990x1024:format=jpg/path/s8d933a2e778e0776/image/idb9aecb118a15cc2/version/1643872622/image.jpg" width="700px" height="500px">
+
+細々とトビハゼが狭い干潟で生き残っているけど、かってはこのような遊びができたなんて、今の東京からは信じられない。
+
+[森田三郎 谷津干潟への想い　サイト](https://subumorita.jimdofree.com/)
+
+
+
+
 <details>
 <summary>まだ下書き  </summary>
 <pre>

@@ -90,10 +90,16 @@ Edward O. Murdyと、Oxdercinae、特にPeriophthalmusを積極的に、大量�
 [Google Scholar Gianluca Polgar](https://scholar.google.com/citations?user=fIMIuSIAAAAJ&hl=ja)
 
 
+<h2 id="nobleGl"> 著名組織</h2>
+
+### [鹿島建設　鹿島技術研究所　葉山水域環境実験場](https://www.kajima.co.jp/tech/katri/facilities/hayama/index.html)
+
 
 <h2 id="paperJP"> トビハゼ論文（日本語）</h2>
 
 <h2 id="paperGl"> トビハゼ論文（英語）</h2>
+
+
 
 
 <h2 id="paperJP"> 少しトビハゼから遠い論文（日本語）</h2>
@@ -120,13 +126,13 @@ Edward O. Murdyと、Oxdercinae、特にPeriophthalmusを積極的に、大量�
 鹿島建設技術研究所さんの素晴らしい論文。環境技術研究部、水域環境グループ　林さん、稲垣さん、田中さん。
 
 三浦半島江奈湾で、春夏秋冬の地温の収束。
-夏季の減熱作用、冬季の保温作用ともにかなりすごい事を照明いただいている。
+夏季の減熱作用、冬季の保温作用ともにかなり具体的に数値を取っていただいている。
 また、熊本湾の実験と比較すると、20cm掘れば、１日の変温が2度から3度程度に収まる事を計測されておられる。
-冬季2月であれば、外気4度から14度に対し、地温30cmのところ11-12度に収束している。含水率は
+冬季2月であれば、外気4度から14度に対し、地温30cmのところ11-12度に収束している。含水率の量の多少は同時期の平均海水温への遠近に影響。
+これこそ、トビハゼのための論文（勝手に大喜び）
 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/awaq/20250303/20250303151902.png">
 
-これこそ、トビハゼのための論文（勝手に大喜び）
 
 
 ### [海岸工学論文集 55集 2008 干潟における底泥温度特性に関する研究](https://www.jstage.jst.go.jp/article/proce1989/55/0/55_0_1296/_pdf)

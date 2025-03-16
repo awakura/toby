@@ -160,31 +160,29 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 
 ### 葛西臨海水族園 トビハゼ関連記事
 
-トビハゼ、まばたきする魚？（2003年07月25日）
-https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=393
-臨海公園干潟でトビハゼ調査（2004年03月25日）
-https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=1071
+#### [トビハゼ、まばたきする魚？ 2003年07月25日](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=393)
 
-トビハゼの仔魚と泥干潟　　（2004年09月24日）
-https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=1813
+#### [臨海公園干潟でトビハゼ調査  2004年03月25日](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=1071)
 
-【動画あり】年に一度のイベント？　トビハゼの求愛
-　　　　　　　　　　　　　（2007年06月29日）
-https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=7216
+#### [トビハゼの仔魚と泥干潟　　2004年09月24日](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=1813)
 
-【動画あり】続・新たな視点で見てみると（２）
-人工なぎさのトビハゼ　　　（2008年06月27日）
-https://www.tokyo-zoo.net/topic/topics_detail?kind=news&inst=&link_num=9400
+　じつはトビハゼは、孵化後しばらくのあいだ、プランクトンなどの小さい餌生物を食べながら、干潟周辺の表・中層付近を漂いながら生活しています。この姿はそんな浮遊生活にふさわしいものなのです。その後徐々に目が上方へ、口が下方へ移行したり、皮膚呼吸ができるようになったり、陸上生活に適した体の構造に変化していきます。
 
-トビハゼ繁殖期始まる　　　（2008年06月27日）
-https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=9401
+#### [【動画あり】年に一度のイベント？　トビハゼの求愛　　　2007年06月29日](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=7216)
 
-水槽でふえました！　トビハゼの稚魚展示（2008年09月19日）
-https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=10073
+#### [【動画あり】続・新たな視点で見てみると（２）人工なぎさのトビハゼ　　2008年06月27日](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&inst=&link_num=9400)
+
+#### [トビハゼ繁殖期始まる　　2008年06月27日](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=9401)
+
+#### [水槽でふえました！　トビハゼの稚魚展示2008年09月19日](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=10073)
+
+仔魚の体長は 2.8ミリ、親のトビハゼとはかたちが異なり、半透明の体をしており、水の中を漂いながら小さなプランクトンを食べて生活します。
+　その後は病気が出ないように育成水槽内の掃除や水を交換したり、ワムシやブラインシュリンプなどの餌をあたえたりすること１か月。体に色がつきはじめ、体長も１センチほどに成長し、体型もハゼらしく変わっていきます（写真中）。そしてトビハゼの場合、陸上で生活しやすいようにもう一度体が変化していくのです。
 
 
-見やすくなった小さいトビハゼの展示水槽　（リスト）
-https://www.tokyo-zoo.net/topic/topics_detail?kind=news&inst=kasai&link_num=13570
+#### [見やすくなった小さいトビハゼの展示水槽　リスト](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&inst=kasai&link_num=13570)
+
+現在、トビハゼの大きさは体長４センチ前後ですが、ほぼ親と同じような体型になり、陸上に置いた餌を食べるようになりました。トビハゼの餌は、サクラエビやゴカイなどのミンチです。直接置くと水槽内を汚してしまうので、餌台の上に乗せて与えています。
 
 
 ---

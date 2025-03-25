@@ -34,6 +34,8 @@ ___
 
 3/5 サンゴ？
 
+3/22 国際アザラシの日
+
 6/16 は世界トビハゼの日
 
 11/11　はチンアナゴの日
@@ -43,6 +45,10 @@ ___
 3/9 ウォーターズ竹芝「干潟オープンデイ」　13-15時 潮の満ち引きと合わせて
 
 [ウォーターズ竹芝「干潟オープンデイ」　13-15時 潮の満ち引きと合わせて](https://waters-takeshiba.jp/waterside/tideland/20240328133300/)
+
+
+3/20 Retro Game Summitにいく　大田区
+[retro game summit webpage](https://www.retrogamesummit.com/)
 
 
 ### ５月

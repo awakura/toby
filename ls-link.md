@@ -1,5 +1,3 @@
-[PModestusInTokyo.md](https://awakura.github.io/toby/PModestusInTokyo.md) <br>
-[README.md](https://awakura.github.io/toby/README.md) <br>
 [basicstudy.md](https://awakura.github.io/toby/basicstudy.md) <br>
 [distributionMudskipper.md](https://awakura.github.io/toby/distributionMudskipper.md) <br>
 [easy.md](https://awakura.github.io/toby/easy.md) <br>
@@ -23,6 +21,8 @@
 [pandoc.md](https://awakura.github.io/toby/pandoc.md) <br>
 [pf.md](https://awakura.github.io/toby/pf.md) <br>
 [phylogeneticTrees.md](https://awakura.github.io/toby/phylogeneticTrees.md) <br>
+[PModestusInTokyo.md](https://awakura.github.io/toby/PModestusInTokyo.md) <br>
+[README.md](https://awakura.github.io/toby/README.md) <br>
 [researchersPapers.md](https://awakura.github.io/toby/researchersPapers.md) <br>
 [riddleOfMudskipper.md](https://awakura.github.io/toby/riddleOfMudskipper.md) <br>
 [riddleOfMudskipper2-uncoverHumanMysteries.md](https://awakura.github.io/toby/riddleOfMudskipper2-uncoverHumanMysteries.md) <br>
@@ -33,7 +33,6 @@
 [spectre.md](https://awakura.github.io/toby/spectre.md) <br>
 [storiesMudskipper.md](https://awakura.github.io/toby/storiesMudskipper.md) <br>
 [test.md](https://awakura.github.io/toby/test.md) <br>
-[PModestusInTokyo.html](https://awakura.github.io/toby/PModestusInTokyo.html) <br>
 [distributionMudskipper.html](https://awakura.github.io/toby/distributionMudskipper.html) <br>
 [easy.html](https://awakura.github.io/toby/easy.html) <br>
 [easy.md.html](https://awakura.github.io/toby/easy.md.html) <br>
@@ -57,6 +56,7 @@
 [nj.html](https://awakura.github.io/toby/nj.html) <br>
 [pandoc.html](https://awakura.github.io/toby/pandoc.html) <br>
 [phylogeneticTrees.html](https://awakura.github.io/toby/phylogeneticTrees.html) <br>
+[PModestusInTokyo.html](https://awakura.github.io/toby/PModestusInTokyo.html) <br>
 [researchersPapers.html](https://awakura.github.io/toby/researchersPapers.html) <br>
 [riddleOfMudskipper.html](https://awakura.github.io/toby/riddleOfMudskipper.html) <br>
 [riddleOfMudskipper2-uncoverHumanMysteries.html](https://awakura.github.io/toby/riddleOfMudskipper2-uncoverHumanMysteries.html) <br>

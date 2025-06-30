@@ -34,6 +34,17 @@ ___
 [ネット購入先](https://naturestudio.jp/products/minamitobihaze)
 
 
+
+## ハンカチ
+
+
+### 行徳保護区　トビハゼ　ハンドタオル
+
+    <img src="https://github.com/awakura/toby/blob/main/img/handtowel.jpg?raw=true" width="250" height="231" alt="mudskipper designed hand towel">
+
+今ネットショップが開いていないみたいで、現地でしか買えないかもです。
+
+
 ## Tシャツ
 
 ### ハゼ水槽いけちゃんねる　ミナミトビハゼ、通常色

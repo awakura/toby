@@ -1,5 +1,3 @@
-PModestusInTokyo.md
-README.md
 basicstudy.md
 distributionMudskipper.md
 easy.md
@@ -23,6 +21,8 @@ nj.md
 pandoc.md
 pf.md
 phylogeneticTrees.md
+PModestusInTokyo.md
+README.md
 researchersPapers.md
 riddleOfMudskipper.md
 riddleOfMudskipper2-uncoverHumanMysteries.md

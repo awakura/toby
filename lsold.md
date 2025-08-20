@@ -4,6 +4,7 @@ easy.md
 frontierAnimalia.md
 funny_log.md
 glossaryForMudskipper.md
+housoudaigaku.md
 howtosayTobihaze.md
 html.md
 indexCn.md

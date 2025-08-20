@@ -4,6 +4,7 @@
 [frontierAnimalia.md](https://awakura.github.io/toby/frontierAnimalia.md) <br>
 [funny_log.md](https://awakura.github.io/toby/funny_log.md) <br>
 [glossaryForMudskipper.md](https://awakura.github.io/toby/glossaryForMudskipper.md) <br>
+[housoudaigaku.md](https://awakura.github.io/toby/housoudaigaku.md) <br>
 [howtosayTobihaze.md](https://awakura.github.io/toby/howtosayTobihaze.md) <br>
 [html.md](https://awakura.github.io/toby/html.md) <br>
 [indexCn.md](https://awakura.github.io/toby/indexCn.md) <br>
@@ -39,6 +40,7 @@
 [frontierAnimalia.html](https://awakura.github.io/toby/frontierAnimalia.html) <br>
 [funny_log.html](https://awakura.github.io/toby/funny_log.html) <br>
 [glossaryForMudskipper.html](https://awakura.github.io/toby/glossaryForMudskipper.html) <br>
+[housoudaigaku.html](https://awakura.github.io/toby/housoudaigaku.html) <br>
 [howtosayTobihaze.html](https://awakura.github.io/toby/howtosayTobihaze.html) <br>
 [index.html](https://awakura.github.io/toby/index.html) <br>
 [index.md.html](https://awakura.github.io/toby/index.md.html) <br>

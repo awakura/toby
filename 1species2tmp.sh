@@ -86,6 +86,12 @@ echo $? [not on idex.html not on sitemap]  riddle3
 pandoc -s -c github.css -o frontierAnimalia.html frontierAnimalia.md
 echo $? [not on idex.html not on sitemap] frontier
 
+
+pandoc -s -c github.css -o housoudaigaku.html housoudaigaku.md
+echo $? [not on idex.html not on sitemap] housoudaigaku
+
+
+
 echo riddleOfMudskipperMada.md
 
 

@@ -4,6 +4,7 @@ easy.md.html
 frontierAnimalia.html
 funny_log.html
 glossaryForMudskipper.html
+housoudaigaku.html
 howtosayTobihaze.html
 index.html
 index.md.html

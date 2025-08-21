@@ -48,6 +48,14 @@ ___
 [森田三郎 谷津干潟への想い　サイト](https://subumorita.jimdofree.com/)
 
 
+## 平成４年　江戸川河川改修工事「トビハゼ護岸」
+
+人命と既存生物の両方に配慮した河川保守工事。
+
+[国土交通省　関東地方整備局　江戸川河川事務所　平成４年「トビハゼ護岸」](https://www.ktr.mlit.go.jp/edogawa/edogawa00281.html)
+
+
+
 
 
 <details>

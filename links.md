@@ -143,6 +143,9 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 
 [トビハゼの物語、守護者](https://awakura.github.io/toby/storiesMudskipper.html)のページにまとめましたので、リンク先をご覧ください。
 
+
+[国土交通省　関東地方整備局　江戸川河川事務所　平成４年「トビハゼ護岸」](https://www.ktr.mlit.go.jp/edogawa/edogawa00281.html)
+
 ---
 
 ## 総論　トビハゼとは？系
@@ -168,6 +171,9 @@ JAMSTEC　:ツリー構造になってて、界門綱目科属種　が見やす
 ---
 
 ### 葛西臨海水族園 トビハゼ関連記事
+
+
+#### [「東京の海」エリアに「干潟の浄化」水槽リニューアルオープン！](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&inst=kasai&link_num=29238)　　トビハゼの仲間、アサリ・ニホンスナモグリ。トビハゼ水槽の上の２階、稚魚トビハゼ水槽の左隣です。
 
 #### [トビハゼ、まばたきする魚？ 2003年07月25日](https://www.tokyo-zoo.net/topic/topics_detail?kind=news&link_num=393)
 

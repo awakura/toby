@@ -96,6 +96,7 @@ Gobyはハゼですね。
 |Hindi  |पंकलंघी	|	|
 |Svenska|Slamkrypare|	|
 
+
 # references
 
 
@@ -131,6 +132,13 @@ https://www.asahi.com/articles/ASN562STYN55ULBJ00S.html
 
 [ヨダレカケ Andamia tetradactylus](https://en.wikipedia.org/wiki/Andamia_tetradactylus)
 
+
+# おまけ
+
+
+英語mudskipperからヨーロッパ各語翻訳機能はまだまだのもよう。ちゃんとドイツ語もあります。
+
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/awaq/20250822/20250822081519.png">
 
 ---
 

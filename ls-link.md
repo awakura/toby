@@ -34,6 +34,7 @@
 [spectre.md](https://awakura.github.io/toby/spectre.md) <br>
 [storiesMudskipper.md](https://awakura.github.io/toby/storiesMudskipper.md) <br>
 [test.md](https://awakura.github.io/toby/test.md) <br>
+[umitaka.md](https://awakura.github.io/toby/umitaka.md) <br>
 [distributionMudskipper.html](https://awakura.github.io/toby/distributionMudskipper.html) <br>
 [easy.html](https://awakura.github.io/toby/easy.html) <br>
 [easy.md.html](https://awakura.github.io/toby/easy.md.html) <br>
